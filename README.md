@@ -5,17 +5,14 @@
   
    
     🟠I actively work across web development, AI/ML, computer vision, cybersecurity, 
-    <br>
     and IoT (ESP32-based systems).
   
    
     🔵I strongly believe no one is born knowledgeable — continuous learning, curiosity, and execution 
-    <br>
     define real growth.
   
     
     🟣With a startup-oriented and business-driven mindset, I focus on building practical, impactful, 
-    <br>
     and scalable technology solutions.
   
 
