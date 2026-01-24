@@ -1,23 +1,22 @@
 # 📜 About Me:
 
-<ul style="list-style-type:none; padding-left:0;">
-  <li>
+  <p>
     <span style="color:darkgreen; font-size:18px; margin-right:8px;">●</span>
     I am a Computer Engineering student from GTU with a minor degree in Cybersecurity.
-  </li>
-  <li>
+  </p>
+  <p>
     <span style="color:red; font-size:18px; margin-right:8px;">●</span>
     I actively work across web development, AI/ML, computer vision, cybersecurity, and IoT (ESP32-based systems).
-  </li>
-  <li>
+  </p>
+  <p>
     <span style="color:blue; font-size:18px; margin-right:8px;">●</span>
     I strongly believe no one is born knowledgeable — continuous learning, curiosity, and execution define real growth.
-  </li>
-  <li>
+  </p>
+  <p>
     <span style="color:purple; font-size:18px; margin-right:8px;">●</span>
     With a startup-oriented and business-driven mindset, I focus on building practical, impactful, and scalable technology solutions.
-  </li>
-</ul>
+  </p>
+
 
 
 
