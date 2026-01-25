@@ -1,4 +1,4 @@
-![Coding](https://github.com/user-attachments/assets/cdbf4d42-e650-4f91-85db-eae70f21978d) 
+![Profile](Profile.png) 
 
 # 📜 About Me:
 
