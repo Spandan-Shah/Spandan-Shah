@@ -89,7 +89,6 @@
                 <a href="">Youtube Video</a>
             </td>
     </tr>
-
     <tr>
         <th colspan="2"><h2>📦 Project: TinyML---Object-Detection-Using-ESP32-Cam</h2></th>
     </tr>
