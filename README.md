@@ -66,7 +66,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-    <h1>Projects:</h1>
+<h1>Projects:</h1>
 <table border="1" style="width:100%; margin:auto;">
     <tr>
         <th colspan="2"><h2>📦 Project: GoblinWisp</h2></th>
@@ -108,5 +108,6 @@
     </tr>
 
     
+
 
 </table>
