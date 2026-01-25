@@ -17,7 +17,7 @@
     🟣With a startup-oriented and business-driven mindset, I focus on building practical, impactful, 
     and scalable technology solutions.
   
-  <img alt="Coding" src="![Coding](Coding.png)>
+
 
 
 
@@ -66,13 +66,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-
-<span>
     <h1>Projects:</h1>
-</span>
-
-<table border="1" style="border-color:white; width:100% align:center;">
+<table border="1" style="width:100%; margin:auto;">
     <tr>
         <th colspan="2"><h2>📦 Project: GoblinWisp</h2></th>
     </tr>
