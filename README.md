@@ -1,4 +1,4 @@
-![Profile](Profile.png) 
+<img width="1024" height="1024" alt="Profile" src="https://github.com/user-attachments/assets/26953a57-b036-4803-953c-c058f309c95d" />
 
 # 📜 About Me:
 
