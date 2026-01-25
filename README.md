@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Coding" src="https://github.com/user-attachments/assets/cdbf4d42-e650-4f91-85db-eae70f21978d" />
+
 # 📜 About Me:
 
 
@@ -15,6 +17,7 @@
     🟣With a startup-oriented and business-driven mindset, I focus on building practical, impactful, 
     and scalable technology solutions.
   
+  <img alt="Coding" src="![Coding](Coding.png)>
 
 
 
