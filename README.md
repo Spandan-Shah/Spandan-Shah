@@ -90,4 +90,26 @@
             </td>
     </tr>
 
+    <tr>
+        <th colspan="2"><h2>📦 Project: TinyML---Object-Detection-Using-ESP32-Cam</h2></th>
+    </tr>
+    <tr>
+        <td><b>Description</b></td>
+        <td>An ESP32-CAM–based real-time computer vision system that streams live image frames to a receiver device, where machine learning models perform object detection using GPU acceleration. The system is designed with a stability-first approach, using UDP streaming and intelligent frame dropping to maintain low latency and reliable performance under varying network and system load.</td>
+    </tr>
+    <tr>
+        <td><b>Github Link</b></td>
+        <td>
+            <a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam">GitHub Repo</a>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Youtube Link</b></td>
+            <td>
+                <a href="">Youtube Video</a>
+            </td>
+    </tr>
+
+    
+
 </table>
