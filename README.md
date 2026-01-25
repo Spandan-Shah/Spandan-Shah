@@ -66,5 +66,28 @@
 
 
 <span>
-<h1>Projects</h1>
+    <h1>Projects:</h1>
 </span>
+
+<table border="1" style="border-color:white; width:100% align:center;">
+    <tr>
+        <th colspan="2"><h2>📦 Project: GoblinWisp</h2></th>
+    </tr>
+    <tr>
+        <td><b>Description</b></td>
+        <td>This project builds a secure two-way text communication link between two ESP32 devices using ESP-NOW (no router required). Each device uses buttons + an OLED to select, send, and display predefined messages in real time. All wireless messages are protected with end-to-end cryptography—X25519 key              exchange, HKDF key derivation, and AES-GCM authenticated encryption—to prevent eavesdropping,                      tampering, replay attacks, and reduce the risk of MITM after pairing/key-pinning.</td>
+    </tr>
+    <tr>
+        <td><b>Github Link</b></td>
+        <td>
+            <a href="https://github.com/Spandan-Shah/GoblinWisp">GitHub Repo</a>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Youtube Link</b></td>
+            <td>
+                <a href="">Youtube Video</a>
+            </td>
+    </tr>
+
+</table>
