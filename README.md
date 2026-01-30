@@ -78,13 +78,13 @@
     <tr>
         <td><b>Github Link</b></td>
         <td>
-            <a href="https://github.com/Spandan-Shah/GoblinWisp">GitHub Repo</a>
+            <a href="">Work in progress</a>
         </td>
     </tr>
     <tr>
         <td><b>Youtube Link</b></td>
             <td>
-                <a href="">Youtube Video</a>
+                <a href="">Work in progress</a>
             </td>
     </tr>
     <tr>
@@ -97,13 +97,13 @@
     <tr>
         <td><b>Github Link</b></td>
         <td>
-            <a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam">GitHub Repo</a>
+            <a href=Work in progress>GitHub Repo</a>
         </td>
     </tr>
     <tr>
         <td><b>Youtube Link</b></td>
             <td>
-                <a href="">Youtube Video</a>
+                <a href="">Work in progress</a>
             </td>
     </tr>
 
