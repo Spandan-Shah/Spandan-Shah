@@ -78,13 +78,15 @@
     <tr>
         <td><b>Github Link</b></td>
         <td>
-            <a href="">Work in progress</a>
+            <!--<a href="">Work in progress</a>-->
+            ⚠️ Work In Progress
         </td>
     </tr>
     <tr>
         <td><b>Youtube Link</b></td>
             <td>
-                <a href="">Work in progress</a>
+                <!--<a href="">Work in progress</a>-->
+                ⚠️ Work In Progress
             </td>
     </tr>
     <tr>
