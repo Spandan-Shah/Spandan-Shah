@@ -92,7 +92,7 @@
     </tr>
     <tr>
         <td><b>Description</b></td>
-        <td>An ESP32-CAM–based real-time computer vision system that streams live image frames to a receiver device, where machine learning models perform object detection using GPU acceleration. The system is designed with a stability-first approach, using UDP streaming and intelligent frame dropping to maintain low latency and reliable performance under varying network and system load.</td>
+        <td>An ESP32-CAM–based real-time computer visinon system that streams live image frames to a receiver device, where machine learning models perform object detection using GPU acceleration. The system is designed with a stability-first approach, using UDP streaming and intelligent frame dropping to maintain low latency and reliable performance under varying network and system load.</td>
     </tr>
     <tr>
         <td><b>Github Link</b></td>
@@ -104,6 +104,27 @@
         <td><b>Youtube Link</b></td>
             <td>
                 <a href="">Work in progress</a>
+            </td>
+    </tr>
+    <tr>
+        <th colspan="2"><h2>project: 📦 Berlin</h2></th>
+    </tr>
+    <tr>
+        <td><b>Description</b></td>
+        <td>An Intelligent Computer Vision Framework for Vehicle Detection, Tracking, and Traffic Analysis Using CCTV Video Streams</td>
+    </tr>
+    <tr>
+        <td><b>Github Link</b></td>
+        <td>
+            <!--<a href=Work in progress>GitHub Repo</a-->
+            ⚠️ Work In Progress
+        </td>
+    </tr>
+    <tr>
+        <td><b>Youtube Link</b></td>
+            <td>
+               <!-- <a href="">Work in progress</a>-->
+               ⚠️ Work In Progress
             </td>
     </tr>
 
