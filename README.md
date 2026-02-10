@@ -131,6 +131,29 @@
                ⚠️ Work In Progress
             </td>
     </tr>
+    <tr>
+        <th colspan="2"><h2>Project: 📦 Project: VigilantEdge</h2></th>
+    </tr>
+    <tr>
+        <td><b>Description</b></td>
+        <td>Modern web applications face increasingly sophisticated and zero-day cyber threats that traditional rule-based Web Application Firewalls (WAFs) are unable to detect effectively.
+        - VigilantEdge is an AI-driven, autonomous Web Application Firewall designed to provide adaptive, real-time, and self-healing security for web and API-based systems. The proposed system leverages behavioral analysis and machine learning-based anomaly detection to identify previously unseen attack patterns, while AI-assisted rule optimization continuously improves detection accuracy and reduces false positives.
+        - To enable proactive defense, VigilantEdge incorporates controlled AI red teaming to evaluate its own resilience and strengthen security policies. The framework further supports explainable security decisions and Zero Trust principles, ensuring transparency, compliance, and minimal human intervention.</td>
+    </tr>
+    <tr>
+        <td><b>Github Link</b></td>
+        <td>
+            <!--<a href=Work in progress>GitHub Repo</a-->
+            ⚠️ Work In Progress
+        </td>
+    </tr>
+    <tr>
+        <td><b>Youtube Link</b></td>
+            <td>
+               <!-- <a href="">Work in progress</a>-->
+               ⚠️ Work In Progress
+            </td>
+    </tr>
 
     
 
