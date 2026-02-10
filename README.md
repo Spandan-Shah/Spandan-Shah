@@ -107,7 +107,7 @@
             </td>
     </tr>
     <tr>
-        <th colspan="2"><h2>project: 📦 Berlin</h2></th>
+        <th colspan="2"><h2>Project: 📦 Berlin</h2></th>
     </tr>
     <tr>
         <td><b>Description</b></td>
