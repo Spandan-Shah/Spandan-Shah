@@ -1249,9 +1249,7 @@ The skills below are broader foundations that apply across multiple projects.
 
 <td width="65%" valign="top">
 
-<h1><b>Directionally-Isolated Identity-Bound Secure Session Architecture</b></h1>
-
-<b>for Infrastructure-Free Peer Communication Systems</b>
+<h1><b>Directionally-Isolated Identity-Bound Secure Session Architecture for Infrastructure-Free Peer Communication Systems</b></h1>
 
 <br><br>
 
