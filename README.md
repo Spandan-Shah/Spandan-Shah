@@ -48,18 +48,6 @@ alt="Spandan Shah — Founder, Aeronexus Aerospace"
 src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2f40c"
 />
 
-<br>
-
-<div align="center">
-
-<h1><b>Spandan Shah</b></h1>
-
-Founder, Aeronexus Aerospace • Computer Engineering • Cybersecurity
-
-Building secure, intelligent and autonomous systems for real-world impact.
-
-<br>
-
 <a href="https://www.linkedin.com/in/spandan-shah0312/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -85,7 +73,7 @@ Building secure, intelligent and autonomous systems for real-world impact.
 
 <div align="center">
 
-📜 About Me
+  <h1><b>About Me</b></h1>
 
 Founder • Engineer • Deep-Tech Builder
 
@@ -105,7 +93,7 @@ Founder • Engineer • Deep-Tech Builder
 <tr>
 <td width="100%" valign="top">
 
-✨ Profile Summary
+<h1><b>Profile Summary</b></h1>
 
 I am a Computer Engineering undergraduate pursuing a Minor in Cybersecurity, with practical work across AI, embedded systems, computer vision, backend engineering, secure communication and UAV technologies.
 
@@ -124,7 +112,7 @@ My work is driven by a simple idea: build systems that are not only technically 
 
 <td width="50%" valign="top">
 
-🚀 What I Build
+<h1><b>What I Build</b></h1>
 
 AI-powered software systems
 
@@ -142,7 +130,7 @@ UAV mission-control and intelligent monitoring tools
 
 <td width="50%" valign="top">
 
-🧠 Engineering Mindset
+<h1><b>Engineering Mindset</b></h1>
 
 I strongly believe real growth comes from continuous learning, curiosity, experimentation and execution.
 
@@ -162,7 +150,7 @@ I enjoy combining software, AI, hardware and security into complete systems rath
 
 <td width="50%" valign="top">
 
-🏢 Founder Perspective
+<h1><b>Founder Perspective</b></h1>
 
 As the Founder of Aeronexus Aerospace, I focus on transforming ideas into meaningful engineering systems.
 
@@ -172,7 +160,7 @@ Technical depth • Product thinking • Problem-first execution • Scalability
 
 <td width="50%" valign="top">
 
-🌍 What Drives Me
+<h1><b>What Drives Me</b></h1>
 
 I am motivated by technology at the intersection of intelligence, security, autonomy, embedded engineering and aerospace/UAV systems.
 
@@ -187,7 +175,7 @@ I prefer solving real operational problems over building projects only for demon
 
 <div align="center">
 
-📌 Quick Snapshot
+<h1><b>📌 Quick Snapshot</b></h1>
 
 <table>
 <tr>
@@ -200,7 +188,7 @@ I prefer solving real operational problems over building projects only for demon
 
 <br>
 
-⚡ Current Focus
+<h1><b>Current Focus</b></h1>
 
 <p>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-5B5FEF?style=for-the-badge" />
@@ -212,8 +200,6 @@ I prefer solving real operational problems over building projects only for demon
 </p>
 
 <br>
-
-“Let the work make the statement.”
 
 </div>
 
@@ -227,15 +213,7 @@ I prefer solving real operational problems over building projects only for demon
 
 <div align="center">
 
-🚀 Projects
-
-Engineering Systems • Research Prototypes • Product Experiments
-
-<p>
-  <img src="https://img.shields.io/badge/Problem_First-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems_Engineering-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build_•_Validate_•_Improve-0891B2?style=for-the-badge" />
-</p>
+<h1><b>Projects</b></h1>
 
 </div>
 
