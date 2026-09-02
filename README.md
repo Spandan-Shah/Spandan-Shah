@@ -234,7 +234,8 @@ I prefer solving real operational problems over building projects only for demon
 </td>
 
 <td width="28%" align="right" valign="middle">
-<img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img width="1920" height="1200" alt="Screenshot (1074)" src="..." />
+" />
 </td>
 
 </tr>
