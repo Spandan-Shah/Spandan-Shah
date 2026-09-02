@@ -319,29 +319,29 @@ Domain: Embedded Security • Applied Cryptography
 
 <div align="center">
 
-⚡ Core Stack & Skills
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP-NOW-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/X25519-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/HKDF-SHA256-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/AES-GCM-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP-NOW-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/X25519-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/HKDF-SHA256-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/AES-GCM-013243?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Secure_Protocol_Design-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Applied_Cryptography-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Identity-Bound_Sessions-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Direction-Specific_Keys-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nonce_Management-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Monotonic_Counters-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure_Protocol_Design-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Applied_Cryptography-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Identity-Bound_Sessions-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Direction-Specific_Keys-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nonce_Management-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monotonic_Counters-7C3AED?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Replay_Protection-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Authenticated_Re-Establishment-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Packet_Handling-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Real-Time_Debugging-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Replay_Protection-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Authenticated_Re-Establishment-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Packet_Handling-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real-Time_Debugging-EA580C?style=flat-square" />
 </p>
 
 </div>
@@ -440,37 +440,37 @@ Domain: UAV Systems • Mission Control • Backend Engineering
 
 <div align="center">
 
-⚡ Core Stack & Skills
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/React-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vite-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLite-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vite-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-B91C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-475569?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/YOLO-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/UAV_Telemetry-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Telemetry_Ingestion-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mission_Mapping-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Route_Visualization-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Geofencing-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operational_Zones-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/UAV_Telemetry-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telemetry_Ingestion-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mission_Mapping-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Route_Visualization-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/Geofencing-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operational_Zones-E92063?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Fleet_Monitoring-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Aircraft_Health-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Battery_Monitoring-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mission_Logs-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operator_Controls-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fleet_Monitoring-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aircraft_Health-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Battery_Monitoring-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mission_Logs-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operator_Controls-20232A?style=flat-square" />
   <img src="https://img.shields.io/badge/Situational_Awareness-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Modular_Backend_Architecture-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modular_Backend_Architecture-7C3AED?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/WebGIS-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebGIS-DB2777?style=flat-square" />
 </p>
 
 </div>
@@ -572,45 +572,43 @@ Domain: AI • Cybersecurity • Backend Systems
 
 <div align="center">
 
-⚡ Core Stack
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-0891B2?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-EA580C?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D97706?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-0F766E?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-B91C1C?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0284C7?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-475569?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-🛡️ Project Skills
-
 <p>
-  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning_for_Cybersecurity-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Penetration_Testing_%26_Red_Teaming-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat_Intelligence_%26_Attribution-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Federated_Learning_%26_Decentralized_Security-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zero_Trust_Security_%28ZTA%29-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dark_Web_%26_Social_Engineering_Detection-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning_for_Cybersecurity-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Penetration_Testing_%26_Red_Teaming-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence_%26_Attribution-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Federated_Learning_%26_Decentralized_Security-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zero_Trust_Security_%28ZTA%29-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dark_Web_%26_Social_Engineering_Detection-DC382D?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Self-Healing_%26_Adaptive_Security-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Post-Quantum_Cryptography-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cyber_Deception_%26_Ransomware_Defense-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security_Operations_Center_%28SOC%29_Automation-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cyber_Risk_Forecasting_%26_Predictive_Analytics-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Blockchain_for_Cybersecurity-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Healing_%26_Adaptive_Security-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Post-Quantum_Cryptography-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber_Deception_%26_Ransomware_Defense-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Operations_Center_%28SOC%29_Automation-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber_Risk_Forecasting_%26_Predictive_Analytics-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blockchain_for_Cybersecurity-20232A?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/5G_%26_IoT_Security-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gamification_in_Cybersecurity_Training-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Compliance_%26_Governance-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Adversarial_AI_%26_Cyber_Resilience-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full-Scale_Autonomous_Cyber_Defense-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/5G_%26_IoT_Security-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gamification_in_Cybersecurity_Training-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Compliance_%26_Governance-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Adversarial_AI_%26_Cyber_Resilience-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full-Scale_Autonomous_Cyber_Defense-059669?style=flat-square" />
 </p>
 
 </div>
@@ -706,30 +704,30 @@ Domain: Scientific ML • Astronomy • Time-Series Analysis
 
 <div align="center">
 
-⚡ Core Stack & Skills
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit-learn-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/ExtraTrees-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit-learn-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/ExtraTrees-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-B91C1C?style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/TESS_Light_Curves-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Box_Least_Squares-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time-Series_Analysis-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Signal_Processing-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/TESS_Light_Curves-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Box_Least_Squares-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time-Series_Analysis-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Signal_Processing-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-009688?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Classification-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model_Evaluation-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Precision_%26_Recall-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Candidate_Prioritization-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scientific_Machine_Learning-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Classification-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model_Evaluation-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Precision_%26_Recall-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Candidate_Prioritization-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scientific_Machine_Learning-150458?style=flat-square" />
 </p>
 
 </div>
@@ -796,44 +794,44 @@ Domain: Computer Vision • AI • Video Analytics • Public Safety
 
 <div align="center">
 
-⚡ Skills Used
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/YOLOv8-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/EfficientDet-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/DETR-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLOv8-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/EfficientDet-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/DETR-20232A?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenPose-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/One-Class_SVM-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Isolation_Forest-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/One-Class_SVM-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Isolation_Forest-DB2777?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Autoencoders-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/K-Means_Clustering-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/DBSCAN-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Real_Time_Streaming_Protocol_%28RTSP%29-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Amazon_Web_Services_%28AWS%29-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reid_Technique_of_Interviewing_%26_Interrogation-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Autoencoders-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/K-Means_Clustering-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/DBSCAN-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real_Time_Streaming_Protocol_%28RTSP%29-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services_%28AWS%29-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reid_Technique_of_Interviewing_%26_Interrogation-0F766E?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kafka-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Twilio-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS_Lambda_%2F_Next-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-B91C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kafka-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Twilio-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Lambda_%2F_Next-4338CA?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/React_Native-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSocket-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Socket.io-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Native-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSocket-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Socket.io-013243?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PoseNet-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Express.js-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/PoseNet-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-EE4C2C?style=flat-square" />
 </p>
 
 </div>
@@ -885,37 +883,37 @@ The framework is intended for authorized intelligence analysis with privacy, leg
 
 <div align="center">
 
-⚡ Skills Used
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python_%28Programming_Language%29-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine_Learning_%28Applied%29-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scrapy_Framework-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_%28Programming_Language%29-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Learning_%28Applied%29-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrapy_Framework-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Beautiful_Soup-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit-Learn-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit-Learn-059669?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Flask-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/DASH-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plotly-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Requests-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/GeoPandas-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/DASH-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plotly-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Requests-B91C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/GeoPandas-6D28D9?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Pandas-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Keras-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLTK-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/spaCy-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Keras-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/spaCy-009688?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/CryptoJS-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/GnuPG-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenSSL-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backdoor_Analysis-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/CryptoJS-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/GnuPG-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSSL-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backdoor_Analysis-013243?style=flat-square" />
 </p>
 
 </div>
@@ -960,15 +958,15 @@ Controlled, authorized wireless-protocol experimentation focused on RF communica
 
 <div align="center">
 
-⚡ Skills Used
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32_Microcontrollers-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireless_Packet_Spoofing-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/RF_Communication_%26_Interference-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/SPI_Interfacing-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Real-Time_RF_Scanning_%26_Signal-Jamming_Research-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking_for_Wireless_Protocols-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32_Microcontrollers-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireless_Packet_Spoofing-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/RF_Communication_%26_Interference-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/SPI_Interfacing-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real-Time_RF_Scanning_%26_Signal-Jamming_Research-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking_for_Wireless_Protocols-7C3AED?style=flat-square" />
 </p>
 
 </div>
@@ -1022,19 +1020,19 @@ I used the project directly in my own exam preparation for targeted question gen
 
 <div align="center">
 
-⚡ Skills Used
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Integration-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postman_API-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_AI-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Integration-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman_API-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_APIs-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-4F46E5?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Express.js-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-B91C1C?style=flat-square" />
 </p>
 
 </div>
@@ -1079,12 +1077,12 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <div align="center">
 
-⚡ Skills Used
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" />
-  <img src="https://img.shields.io/badge/webhooks-EA4B71?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_and_Data_Integration-EA4B71?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/webhooks-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_and_Data_Integration-475569?style=flat-square" />
 </p>
 
 </div>
@@ -1119,22 +1117,22 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <div align="center">
 
-⚡ Core Stack & Skills
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/YOLO-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/DeepSORT-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vehicle_Detection-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vehicle_Classification-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO-BE123C?style=flat-square" />
+  <img src="https://img.shields.io/badge/DeepSORT-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vehicle_Detection-009639?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vehicle_Classification-DC382D?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Persistent_Tracking-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plate_Preprocessing-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Speed_Estimation-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trajectory_Analysis-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Traffic_Analytics-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Persistent_Tracking-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plate_Preprocessing-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/Speed_Estimation-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trajectory_Analysis-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Traffic_Analytics-EE4C2C?style=flat-square" />
 </p>
 
 </div>
@@ -1171,20 +1169,20 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <div align="center">
 
-⚡ Core Stack & Skills
+⚡ Tech Skills
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-CAM-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/UDP_Streaming-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Object_Detection-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-CAM-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/UDP_Streaming-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Object_Detection-0891B2?style=flat-square" />
   <img src="https://img.shields.io/badge/Image_Streaming-059669?style=flat-square" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Frame_Dropping-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Low-Latency_Processing-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Receiver-Side_Inference-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frame_Dropping-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Low-Latency_Processing-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/Receiver-Side_Inference-4F46E5?style=flat-square" />
 </p>
 
 </div>
