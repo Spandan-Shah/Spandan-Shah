@@ -1,256 +1,8 @@
-<!-- =========================================================
-SPANDAN SHAH — GITHUB PROFILE README
-
-RECOMMENDED PROJECT IMAGES
-Use 16:9 cover images: ideally 1600×900 or 1920×1080.
-
-assets/
-│
-├── goblinwisp-cover.png
-├── goblinwisp-01.png
-├── goblinwisp-02.png
-├── goblinwisp-03.png
-│
-├── aeronexus-command-center-cover.png
-├── aeronexus-01.png
-├── aeronexus-02.png
-├── aeronexus-03.png
-├── aeronexus-04.png
-├── aeronexus-05.png
-├── aeronexus-06.png
-│
-├── vigilantedge-cover.png
-├── vigilantedge-01.png
-├── vigilantedge-02.png
-├── vigilantedge-03.png
-│
-├── exotrace-cover.png
-├── exotrace-01.png
-├── exotrace-02.png
-└── exotrace-03.png
-========================================================= -->
-
-
-<img
-  width="1983"
-  height="793"
-  alt="Founder, Aeronexus Aerospace"
-  src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2f40c"
-/>
-
-<br>
-
-
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 📜 About Me
-
-### Founder • Engineer • Deep-Tech Builder
-
-<p>
-  Building secure, intelligent and autonomous systems for real-world impact.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI-5B5FEF?style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge&labelColor=0F172A" />
-</p>
-
-</div>
-
-<br>
-
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-### ✨ Profile Summary
-
-I am a **Computer Engineering undergraduate** pursuing a **Minor in Cybersecurity**, with practical work across **AI, embedded systems, computer vision, backend engineering, secure communication and UAV technologies**.
-
-I am the **Founder of Aeronexus Aerospace**, where I work on secure, intelligent and autonomous systems including **mission-control software, embedded communication, AI-assisted situational awareness, and infrastructure-constrained secure communication**.
-
-My work is driven by a simple idea: build systems that are not only technically interesting, but also **practical, scalable and impactful in the real world**.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 What I Build
-
-- AI-powered software systems
-- Computer vision and video intelligence solutions
-- Embedded and wireless communication systems
-- Secure communication architectures
-- Backend APIs and operational platforms
-- UAV mission-control and intelligent monitoring tools
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Mission_Control-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Secure_Communication-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-059669?style=flat-square" />
-</p>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### 🧠 Engineering Mindset
-
-I strongly believe that real growth comes from **continuous learning, curiosity, experimentation and execution**.
-
-My approach is simple:
-
-**Learn → Build → Test → Improve → Validate**
-
-Rather than staying limited to one technical area, I enjoy working across disciplines and combining software, AI, hardware and security into complete systems.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Curiosity-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Execution-EF4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Continuous_Learning-14B8A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Systems_Thinking-1D4ED8?style=flat-square" />
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏢 Founder Perspective
-
-As the **Founder of Aeronexus Aerospace**, I focus on transforming ideas into meaningful engineering systems.
-
-My perspective combines:
-
-- technical depth
-- product thinking
-- problem-first execution
-- scalability mindset
-- practical innovation
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### 🌍 What Drives Me
-
-I am motivated by building technology that sits at the intersection of:
-
-- intelligence
-- security
-- autonomy
-- embedded engineering
-- aerospace and UAV systems
-
-I prefer solving **real operational problems** over building projects only for demonstration.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<div align="center">
-
-### 📌 Quick Snapshot
-
-<table>
-
-<tr>
-
-<td align="center" width="140px">
-<h3>8+</h3>
-Hackathons
-</td>
-
-<td align="center" width="140px">
-<h3>10+</h3>
-Major Projects
-</td>
-
-<td align="center" width="140px">
-<h3>1</h3>
-Patent Application
-</td>
-
-<td align="center" width="140px">
-<h3>∞</h3>
-Learning & Building
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-
-<div align="center">
-
-### ⚡ Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-5B5FEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secure_Systems-0F172A?style=for-the-badge" />
-</p>
-
-<br>
-
-> ### “Let the work make the statement.”
-
-</div>
-
-<br>
-
----
-
 <!-- ========================================================= -->
 <!-- PROJECTS -->
 <!-- ========================================================= -->
 
+<br>
 
 <div align="center">
 
@@ -265,7 +17,7 @@ Learning & Building
 </p>
 
 <sub>
-Real systems across secure communication, UAV software, AI,
+Real systems spanning secure communication, UAV software, AI,
 cybersecurity, computer vision and embedded engineering.
 </sub>
 
@@ -275,9 +27,8 @@ cybersecurity, computer vision and embedded engineering.
 
 
 <!-- ========================================================= -->
-<!-- 01 GOBLINWISP -->
+<!-- 01 / GOBLINWISP -->
 <!-- ========================================================= -->
-
 
 <table width="100%">
 
@@ -287,9 +38,7 @@ cybersecurity, computer vision and embedded engineering.
 
 <h2>01 / GoblinWisp</h2>
 
-<b>
-Identity-Bound & Directionally Isolated Secure Session Prototype
-</b>
+<b>Identity-Bound & Directionally Isolated Secure Session Prototype</b>
 
 </td>
 
@@ -309,9 +58,9 @@ src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&
 <td colspan="2">
 
 <img
-  src="./assets/goblinwisp-cover.png"
-  width="100%"
-  alt="GoblinWisp Secure Communication Prototype"
+src="./assets/goblinwisp-cover.png"
+width="100%"
+alt="GoblinWisp Secure Communication Prototype"
 />
 
 </td>
@@ -359,7 +108,7 @@ Opposite communication directions maintain independent keys, counters, nonce sta
 
 **Transport Independence**
 
-ESP-NOW acts as the prototype transport while the security architecture remains conceptually above the wireless transport layer.
+ESP-NOW is used as the prototype transport while the secure-session architecture remains conceptually independent of the underlying wireless channel.
 
 </td>
 
@@ -378,7 +127,7 @@ Embedded Security Prototype
 Lead Developer • Inventor
 
 **Domain**  
-Secure Communication • Embedded Security
+Embedded Security • Applied Cryptography • Secure Communication
 
 </td>
 
@@ -392,15 +141,33 @@ Secure Communication • Embedded Security
 
 <div align="center">
 
+### ⚡ Core Stack
+
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-
 <img src="https://img.shields.io/badge/ESP--NOW-334155?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/X25519-0F766E?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/HKDF--SHA256-047857?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/AES--GCM-166534?style=for-the-badge" />
+
+<br><br>
+
+### 🧠 Engineering Skills
+
+<img src="https://img.shields.io/badge/Secure_Protocol_Design-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Applied_Cryptography-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Identity--Bound_Sessions-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Replay_Protection-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Nonce_Management-E11D48?style=flat-square" />
+<img src="https://img.shields.io/badge/Counter_Management-B91C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/Session_State_Management-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Packet_Handling-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Message_Authentication-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Integrity_Verification-047857?style=flat-square" />
+<img src="https://img.shields.io/badge/Fault_Handling-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Real--Time_Debugging-64748B?style=flat-square" />
+<img src="https://img.shields.io/badge/Peer--to--Peer_Comms-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireless_Security-0369A1?style=flat-square" />
 
 </div>
 
@@ -410,9 +177,7 @@ Secure Communication • Embedded Security
 
 <details>
 
-<summary>
-<b>🖼️ Explore GoblinWisp Prototype Gallery</b>
-</summary>
+<summary><b>🖼️ Explore GoblinWisp Prototype Gallery</b></summary>
 
 <br>
 
@@ -421,27 +186,15 @@ Secure Communication • Embedded Security
 <tr>
 
 <td width="33%">
-<img
-src="./assets/goblinwisp-01.png"
-width="100%"
-alt="GoblinWisp Prototype View 1"
-/>
+<img src="./assets/goblinwisp-01.png" width="100%" alt="GoblinWisp Prototype View 1" />
 </td>
 
 <td width="33%">
-<img
-src="./assets/goblinwisp-02.png"
-width="100%"
-alt="GoblinWisp Prototype View 2"
-/>
+<img src="./assets/goblinwisp-02.png" width="100%" alt="GoblinWisp Prototype View 2" />
 </td>
 
 <td width="34%">
-<img
-src="./assets/goblinwisp-03.png"
-width="100%"
-alt="GoblinWisp Prototype View 3"
-/>
+<img src="./assets/goblinwisp-03.png" width="100%" alt="GoblinWisp Prototype View 3" />
 </td>
 
 </tr>
@@ -455,9 +208,8 @@ alt="GoblinWisp Prototype View 3"
 
 ---
 
-
 <!-- ========================================================= -->
-<!-- 02 AERONEXUS COMMAND CENTER -->
+<!-- 02 / AERONEXUS COMMAND CENTER -->
 <!-- ========================================================= -->
 
 
@@ -469,9 +221,7 @@ alt="GoblinWisp Prototype View 3"
 
 <h2>02 / Aeronexus Command Center</h2>
 
-<b>
-Unified Mission Control for Next-Generation UAV Systems
-</b>
+<b>Unified Mission Control for Next-Generation UAV Systems</b>
 
 </td>
 
@@ -518,9 +268,9 @@ This fragmentation increases operator workload and makes it harder to maintain a
 
 ### ⚙️ What I Built
 
-Developed a **unified mission-control platform** combining telemetry, route visualization, mission mapping, geofencing, operational zones, aircraft health, battery monitoring, alerts, fleet status and operator controls.
+Developed a **unified mission-control platform** combining UAV telemetry, route visualization, mission mapping, geofencing, operational zones, aircraft health, battery monitoring, alerts, fleet status and operator controls.
 
-The platform provides a modular software foundation for future **computer vision, sensing, security and multi-UAV services**.
+The platform provides a modular software foundation for future **computer vision, onboard sensing, security events and multi-UAV services**.
 
 </td>
 
@@ -535,13 +285,13 @@ The platform provides a modular software foundation for future **computer vision
 
 **Unified Operational Awareness**
 
-Mission information is consolidated into a single operator-oriented interface instead of fragmented monitoring tools.
+Telemetry, mission context, aircraft state and operational intelligence are consolidated into a single operator-oriented interface.
 
 <br>
 
 **Modular Backend Architecture**
 
-FastAPI-based services support telemetry ingestion, processing, storage and communication between system components.
+FastAPI-based services support telemetry ingestion, processing, persistence and communication between UAV-related system components.
 
 </td>
 
@@ -574,17 +324,36 @@ UAV Systems • Mission Control • Backend Engineering
 
 <div align="center">
 
+### ⚡ Core Stack
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
 <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" />
+
+<br><br>
+
+### 🛰️ UAV & Systems Skills
+
+<img src="https://img.shields.io/badge/UAV_Telemetry-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Telemetry_Ingestion-0369A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Mission_Control-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Mission_Mapping-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Route_Visualization-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Geofencing-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Operational_Zones-0E7490?style=flat-square" />
+<img src="https://img.shields.io/badge/Fleet_Monitoring-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Aircraft_Health-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/Battery_Monitoring-65A30D?style=flat-square" />
+<img src="https://img.shields.io/badge/Situational_Awareness-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Event_&_Alert_Handling-EA580C?style=flat-square" />
+<img src="https://img.shields.io/badge/Operational_Logs-64748B?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend_Architecture-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/Modular_System_Design-475569?style=flat-square" />
 
 </div>
 
@@ -594,68 +363,40 @@ UAV Systems • Mission Control • Backend Engineering
 
 <details>
 
-<summary>
-<b>🖼️ Explore Command Center Interface Gallery</b>
-</summary>
+<summary><b>🖼️ Explore Command Center Interface Gallery</b></summary>
 
 <br>
-
 
 <table width="100%">
 
 <tr>
 
 <td width="33%">
-<img
-src="./assets/aeronexus-01.png"
-width="100%"
-alt="Aeronexus Interface 1"
-/>
+<img src="./assets/aeronexus-01.png" width="100%" alt="Aeronexus Interface 1" />
 </td>
 
 <td width="33%">
-<img
-src="./assets/aeronexus-02.png"
-width="100%"
-alt="Aeronexus Interface 2"
-/>
+<img src="./assets/aeronexus-02.png" width="100%" alt="Aeronexus Interface 2" />
 </td>
 
 <td width="34%">
-<img
-src="./assets/aeronexus-03.png"
-width="100%"
-alt="Aeronexus Interface 3"
-/>
+<img src="./assets/aeronexus-03.png" width="100%" alt="Aeronexus Interface 3" />
 </td>
 
 </tr>
 
-
 <tr>
 
 <td width="33%">
-<img
-src="./assets/aeronexus-04.png"
-width="100%"
-alt="Aeronexus Interface 4"
-/>
+<img src="./assets/aeronexus-04.png" width="100%" alt="Aeronexus Interface 4" />
 </td>
 
 <td width="33%">
-<img
-src="./assets/aeronexus-05.png"
-width="100%"
-alt="Aeronexus Interface 5"
-/>
+<img src="./assets/aeronexus-05.png" width="100%" alt="Aeronexus Interface 5" />
 </td>
 
 <td width="34%">
-<img
-src="./assets/aeronexus-06.png"
-width="100%"
-alt="Aeronexus Interface 6"
-/>
+<img src="./assets/aeronexus-06.png" width="100%" alt="Aeronexus Interface 6" />
 </td>
 
 </tr>
@@ -669,9 +410,8 @@ alt="Aeronexus Interface 6"
 
 ---
 
-
 <!-- ========================================================= -->
-<!-- 03 VIGILANTEDGE -->
+<!-- 03 / VIGILANTEDGE -->
 <!-- ========================================================= -->
 
 
@@ -683,12 +423,9 @@ alt="Aeronexus Interface 6"
 
 <h2>03 / VigilantEdge</h2>
 
-<b>
-Adaptive AI Firewall & Self-Healing Cyber Defense
-</b>
+<b>Adaptive AI Firewall & Self-Healing Cyber Defense</b>
 
 </td>
-
 
 <td width="28%" align="right" valign="middle">
 
@@ -735,7 +472,7 @@ They can struggle with application-specific anomalies, modified attack behaviour
 
 Designed a staged adaptive defensive architecture combining **reverse-proxy controls, request validation, behavioural analysis, ML-assisted anomaly detection, contextual risk scoring, explainability and policy-controlled remediation**.
 
-Advanced research concepts are intentionally separated from capabilities already implemented or validated.
+Long-term research capabilities are intentionally separated from functionality that has already been implemented or validated.
 
 </td>
 
@@ -750,13 +487,13 @@ Advanced research concepts are intentionally separated from capabilities already
 
 **Adaptive Detection**
 
-Combines conventional controls with behavioural and ML-assisted analysis rather than relying entirely on static rules.
+Combines conventional defensive controls with behavioural and ML-assisted analysis instead of relying entirely on predefined rules.
 
 <br>
 
 **Explainable Security Decisions**
 
-The architecture explores interpretable risk scoring so automated security decisions remain reviewable.
+Explores interpretable risk scoring and explainability so AI-assisted defensive decisions remain reviewable.
 
 </td>
 
@@ -789,15 +526,47 @@ AI • Cybersecurity • Backend Systems
 
 <div align="center">
 
+### ⚡ Core Stack
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br><br>
+
+### 🛡️ Security Engineering
+
+<img src="https://img.shields.io/badge/Web_Application_Security-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Security-E11D48?style=flat-square" />
+<img src="https://img.shields.io/badge/Behavioural_Analysis-DB2777?style=flat-square" />
+<img src="https://img.shields.io/badge/Anomaly_Detection-9D174D?style=flat-square" />
+<img src="https://img.shields.io/badge/Risk_Scoring-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Explainable_AI-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat_Intelligence-B91C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat_Hunting-991B1B?style=flat-square" />
+<img src="https://img.shields.io/badge/Zero_Trust-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Policy--Driven_Response-2563EB?style=flat-square" />
+
+<br><br>
+
+### 🔬 Research Areas
+
+<img src="https://img.shields.io/badge/Self--Healing_Security-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Cyber_Deception-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/SOC_Automation-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Adversarial_AI-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Federated_Learning-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Red_Teaming-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Cyber_Resilience-EA580C?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT_&_5G_Security-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Post--Quantum_Concepts-475569?style=flat-square" />
 
 </div>
 
@@ -807,39 +576,24 @@ AI • Cybersecurity • Backend Systems
 
 <details>
 
-<summary>
-<b>🖼️ Explore VigilantEdge Architecture & Interface Gallery</b>
-</summary>
+<summary><b>🖼️ Explore VigilantEdge Architecture & Interface Gallery</b></summary>
 
 <br>
-
 
 <table width="100%">
 
 <tr>
 
 <td width="33%">
-<img
-src="./assets/vigilantedge-01.png"
-width="100%"
-alt="VigilantEdge View 1"
-/>
+<img src="./assets/vigilantedge-01.png" width="100%" alt="VigilantEdge View 1" />
 </td>
 
 <td width="33%">
-<img
-src="./assets/vigilantedge-02.png"
-width="100%"
-alt="VigilantEdge View 2"
-/>
+<img src="./assets/vigilantedge-02.png" width="100%" alt="VigilantEdge View 2" />
 </td>
 
 <td width="34%">
-<img
-src="./assets/vigilantedge-03.png"
-width="100%"
-alt="VigilantEdge View 3"
-/>
+<img src="./assets/vigilantedge-03.png" width="100%" alt="VigilantEdge View 3" />
 </td>
 
 </tr>
@@ -853,9 +607,8 @@ alt="VigilantEdge View 3"
 
 ---
 
-
 <!-- ========================================================= -->
-<!-- 04 EXOTRACE -->
+<!-- 04 / EXOTRACE -->
 <!-- ========================================================= -->
 
 
@@ -867,12 +620,9 @@ alt="VigilantEdge View 3"
 
 <h2>04 / ExoTrace</h2>
 
-<b>
-AI-Assisted Exoplanet Transit Detection & Candidate Screening
-</b>
+<b>AI-Assisted Exoplanet Transit Detection & Candidate Screening</b>
 
 </td>
-
 
 <td width="28%" align="right" valign="middle">
 
@@ -908,7 +658,7 @@ alt="ExoTrace Exoplanet Research Prototype"
 
 Astronomical light curves contain noise, stellar variability and false-positive patterns that can resemble genuine planetary transit signals.
 
-Candidate screening therefore requires both signal processing and careful classification.
+Candidate screening therefore requires both signal processing and careful machine-learning classification.
 
 </td>
 
@@ -917,9 +667,9 @@ Candidate screening therefore requires both signal processing and careful classi
 
 ### ⚙️ What I Built
 
-Built a scientific machine-learning pipeline that processes **TESS light curves**, applies **Box Least Squares**, extracts transit-related features and uses an **ExtraTrees classifier** for candidate prioritization.
+Built a scientific ML pipeline that processes **TESS light curves**, applies **Box Least Squares**, extracts transit-related features and uses an **ExtraTrees classifier** for candidate prioritization.
 
-The system is positioned as a screening tool rather than a final confirmation system.
+The system is positioned as an AI-assisted screening tool rather than a final astronomical confirmation system.
 
 </td>
 
@@ -955,7 +705,7 @@ The system is positioned as a screening tool rather than a final confirmation sy
 Functional Research Prototype
 
 **Domain**  
-Scientific ML • Astronomy • Data Analysis
+Scientific ML • Astronomy • Time-Series Analysis
 
 </td>
 
@@ -969,15 +719,29 @@ Scientific ML • Astronomy • Data Analysis
 
 <div align="center">
 
+### ⚡ Core Stack
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
+<img src="https://img.shields.io/badge/ExtraTrees-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+### 🔭 Scientific & ML Skills
+
+<img src="https://img.shields.io/badge/TESS_Light_Curves-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Box_Least_Squares-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Time--Series_Analysis-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Signal_Processing-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Feature_Engineering-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Classification-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Model_Evaluation-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/Precision_&_Recall-EA580C?style=flat-square" />
+<img src="https://img.shields.io/badge/Candidate_Prioritization-DB2777?style=flat-square" />
+<img src="https://img.shields.io/badge/Scientific_Machine_Learning-6D28D9?style=flat-square" />
 
 </div>
 
@@ -987,39 +751,24 @@ Scientific ML • Astronomy • Data Analysis
 
 <details>
 
-<summary>
-<b>🖼️ Explore ExoTrace Research Gallery</b>
-</summary>
+<summary><b>🖼️ Explore ExoTrace Research Gallery</b></summary>
 
 <br>
-
 
 <table width="100%">
 
 <tr>
 
 <td width="33%">
-<img
-src="./assets/exotrace-01.png"
-width="100%"
-alt="ExoTrace View 1"
-/>
+<img src="./assets/exotrace-01.png" width="100%" alt="ExoTrace View 1" />
 </td>
 
 <td width="33%">
-<img
-src="./assets/exotrace-02.png"
-width="100%"
-alt="ExoTrace View 2"
-/>
+<img src="./assets/exotrace-02.png" width="100%" alt="ExoTrace View 2" />
 </td>
 
 <td width="34%">
-<img
-src="./assets/exotrace-03.png"
-width="100%"
-alt="ExoTrace View 3"
-/>
+<img src="./assets/exotrace-03.png" width="100%" alt="ExoTrace View 3" />
 </td>
 
 </tr>
@@ -1034,17 +783,17 @@ alt="ExoTrace View 3"
 ---
 
 <!-- ========================================================= -->
-<!-- SECONDARY PROJECTS -->
+<!-- MORE ENGINEERING WORK -->
 <!-- ========================================================= -->
 
 
 <div align="center">
 
-### More Engineering Work
+## 🧪 More Engineering Work
 
 <sub>
-Additional work across AI, automation, computer vision,
-cybersecurity and embedded systems.
+Additional projects across Generative AI, computer vision,
+threat intelligence, automation and embedded security.
 </sub>
 
 </div>
@@ -1056,21 +805,37 @@ cybersecurity and embedded systems.
 
 <tr>
 
+
+<!-- EXAMFORGE -->
 <td width="50%" valign="top">
 
 ### 📄 ExamForge AI
 
-Generative assessment and question-paper builder using structured prompts and Gemini API integration.
+**Generative Assessment & Question Paper Builder**
+
+Generative-AI assessment tool developed for configurable academic practice and GTU-oriented question generation.
 
 <br>
 
+**Core Stack**
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
 
+<br><br>
+
+**Skills**
+
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Integration-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integration-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Input_Validation-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Environment_Variables-475569?style=flat-square" />
 
 <br><br>
 
@@ -1079,21 +844,35 @@ Generative assessment and question-paper builder using structured prompts and Ge
 </td>
 
 
+<!-- TINYML -->
 <td width="50%" valign="top">
 
 ### 📷 TinyML — ESP32-CAM Vision
 
-Embedded vision experiment using ESP32-CAM image streaming with receiver-side object detection.
+**Embedded Camera Streaming & Object Detection**
+
+Embedded vision experiment that streams ESP32-CAM frames to a receiver-side detection pipeline.
 
 <br>
 
+**Core Stack**
+
 <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/UDP-2563EB?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<br><br>
 
-<img src="https://img.shields.io/badge/UDP_Streaming-1D4ED8?style=flat-square" />
+**Skills**
+
+<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Object_Detection-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Image_Streaming-0284C7?style=flat-square" />
+<img src="https://img.shields.io/badge/UDP_Streaming-0369A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded_Vision-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/Frame_Dropping-EA580C?style=flat-square" />
+<img src="https://img.shields.io/badge/Low--Latency_Processing-F59E0B?style=flat-square" />
 
 <br><br>
 
@@ -1109,51 +888,9 @@ Embedded vision experiment using ESP32-CAM image streaming with receiver-side ob
 <br>
 
 
-<details>
-
-<summary>
-<b>📂 Explore Additional Projects</b>
-</summary>
-
-<br>
-
-| Project | Engineering Focus |
-|---|---|
-| **Berlin** | Intelligent traffic surveillance using YOLO, DeepSORT, OCR and speed estimation |
-| **Vigil** | AI-assisted situational awareness for public-safety monitoring |
-| **NarcoTrace AI** | Multimodal threat intelligence using NLP, computer vision and OSINT |
-| **SpectraGuard** | ESP32 + NRF24L01 wireless-security and RF-resilience testbed |
-| **FlowOps** | n8n-based workflow automation and event-driven processing |
-| **Blackout Community** | Student-led collaborative technology and innovation initiative |
-
-</details>
-
-
-<br>
-
----
-
 <!-- ========================================================= -->
-<!-- TECHNICAL SKILLS -->
+<!-- ADDITIONAL PROJECT BENTO GRID -->
 <!-- ========================================================= -->
-
-
-<div align="center">
-
-## 🧩 Technical Skills
-
-### Software • AI • Security • Embedded Systems • UAV Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Multi--Domain_Engineering-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Tech-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems_Thinking-0891B2?style=for-the-badge" />
-</p>
-
-</div>
-
-
-<br>
 
 
 <table width="100%">
@@ -1161,107 +898,71 @@ Embedded vision experiment using ESP32-CAM image streaming with receiver-side ob
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💻 Languages & Backend
+### 🚦 Berlin
 
-**Programming**
+**Intelligent Traffic Vision**
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-
-<br><br>
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-1D4ED8?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square" />
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### 🧠 AI, ML & Computer Vision
-
-**Artificial Intelligence / ML**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/ExtraTrees-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Feature_Engineering-0EA5E9?style=flat-square" />
-
-<br><br>
-
-**Computer Vision**
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/DeepSORT-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/OCR-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/Video_Analytics-14B8A6?style=flat-square" />
-
-</td>
-
-</tr>
-
-
-<tr>
-
-
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity & Applied Cryptography
-
-**Applied Cryptography**
-
-<img src="https://img.shields.io/badge/AES--GCM-166534?style=flat-square" />
-<img src="https://img.shields.io/badge/X25519-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/HKDF--SHA256-047857?style=flat-square" />
-<img src="https://img.shields.io/badge/Replay_Protection-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/Secure_Protocol_Design-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
 
 <br><br>
 
-**Security Engineering**
+`Vehicle Detection`  
+`Object Tracking`  
+`License Plate OCR`  
+`Speed Estimation`  
+`Trajectory Analysis`  
+`Traffic Analytics`
 
-<img src="https://img.shields.io/badge/API_Security-E11D48?style=flat-square" />
+</td>
+
+
+<td width="33%" valign="top">
+
+### 👁️ Vigil
+
+**AI Situational Awareness**
+
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/RTSP-2563EB?style=flat-square" />
+
+<br><br>
+
+`Object Detection`  
+`Video Analytics`  
+`Pose / Gesture Analysis`  
+`Anomaly Detection`  
+`Crowd Analysis`  
+`Real-Time Monitoring`
+
+</td>
+
+
+<td width="34%" valign="top">
+
+### 🕵️ NarcoTrace AI
+
+**Multimodal Threat Intelligence**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
 <img src="https://img.shields.io/badge/OSINT-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat_Intelligence-9D174D?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat_Hunting-B91C1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Zero_Trust-6D28D9?style=flat-square" />
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### ⚙️ Embedded & Wireless Systems
-
-**Embedded**
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Sensor_Integration-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/SPI-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Serial_Debugging-64748B?style=flat-square" />
 
 <br><br>
 
-**Wireless**
-
-<img src="https://img.shields.io/badge/ESP--NOW-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/NRF24L01-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/RF_Communication-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Wireless_Telemetry-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Peer--to--Peer_Comms-0F766E?style=flat-square" />
+`Threat Intelligence`  
+`Network Analysis`  
+`Scrapy`  
+`BeautifulSoup`  
+`GeoPandas`  
+`Responsible AI`
 
 </td>
 
@@ -1271,66 +972,70 @@ Embedded vision experiment using ESP32-CAM image streaming with receiver-side ob
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛰️ UAV & Geospatial Systems
+### 📡 SpectraGuard
 
-**UAV Engineering**
+**Wireless Security Testbed**
 
-<img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Mission_Control-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Telemetry_Processing-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Geofencing-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Fleet_Monitoring-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
+<img src="https://img.shields.io/badge/NRF24L01-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/SPI-334155?style=flat-square" />
 
 <br><br>
 
-**Data & Geospatial**
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/GeoPandas-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/WebGIS-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Satellite_Imagery-2563EB?style=flat-square" />
+`RF Communication`  
+`Wireless Security`  
+`Packet Analysis`  
+`RF Interference Testing`  
+`SPI Interfacing`  
+`Embedded Debugging`
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛠️ Frontend, Automation & Tools
+### 🔄 FlowOps
 
-**Frontend / Interfaces**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Dashboards-0891B2?style=flat-square" />
-
-<br><br>
-
-**Automation & Developer Tools**
+**Workflow Automation**
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square" />
+
+<br><br>
+
+`Workflow Automation`  
+`Webhook Processing`  
+`API & Data Integration`  
+`Input Validation`  
+`Event-Driven Workflows`  
+`Participant Data Processing`
+
+</td>
+
+
+<td width="34%" valign="top">
+
+### 🌐 Blackout Community
+
+**Technology & Innovation Community**
+
+<img src="https://img.shields.io/badge/Leadership-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Community-4F46E5?style=flat-square" />
+
+<br><br>
+
+`Team Building`  
+`Hackathon Collaboration`  
+`Technical Coordination`  
+`Community Management`  
+`Peer Learning`
 
 </td>
 
 </tr>
 
 </table>
-
-
-<br>
-
-
-<div align="center">
-
-> ### “Stay curious. Build consistently. Solve meaningfully.”
-
-</div>
 
 <br>
