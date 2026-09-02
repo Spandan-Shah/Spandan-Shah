@@ -1,4 +1,27 @@
-<!-- ===================================================================== SPANDAN SHAH — PREMIUM GITHUB PROFILE README GitHub-native Markdown + HTML PROJECT IMAGE ASSETS Use 16:9 cover images for projects that display a project cover. GoblinWisp currently uses no cover image; its repository button is shown instead. assets/ ├── goblinwisp-01.png ├── goblinwisp-02.png ├── goblinwisp-03.png ├── aeronexus-command-center-cover.png ├── aeronexus-01.png ├── aeronexus-02.png ├── aeronexus-03.png ├── aeronexus-04.png ├── aeronexus-05.png ├── aeronexus-06.png ├── vigilantedge-cover.png ├── vigilantedge-01.png ├── vigilantedge-02.png ├── vigilantedge-03.png ├── exotrace-cover.png ├── exotrace-01.png ├── exotrace-02.png ├── exotrace-03.png ├── vigil-cover.png ├── narcotrace-cover.png ├── spectraguard-cover.png ├── examforge-cover.png ├── flowops-cover.png ├── berlin-cover.png └── tinyml-cover.png All 99 explicit skills from the supplied LinkedIn skills paste are represented below. Where the source explicitly associates one skill with more than one project, that skill may appear in multiple boxes. General/unassociated entries are preserved under Cross-Project Foundations. ===================================================================== -->
+<!--
+======================================================================
+SPANDAN SHAH — PREMIUM GITHUB PROFILE README
+GitHub-native Markdown + HTML
+
+VISUAL CONSISTENCY
+Use the same 16:9 ratio for every project cover:
+1600×900 or 1920×1080 recommended.
+
+Project covers:
+assets/aeronexus-command-center-cover.png
+assets/vigilantedge-cover.png
+assets/exotrace-cover.png
+assets/vigil-cover.png
+assets/narcotrace-cover.png
+assets/spectraguard-cover.png
+assets/examforge-cover.png
+assets/flowops-cover.png
+assets/berlin-cover.png
+assets/tinyml-cover.png
+
+GoblinWisp intentionally uses a repository-access panel instead of a cover.
+======================================================================
+-->
 
 <img width="1983" height="793" alt="Spandan Shah — Founder, Aeronexus Aerospace" src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2f40c" />
 
@@ -8,51 +31,76 @@
 
 <h1><b>Spandan Shah</b></h1>
 
-Founder, Aeronexus Aerospace • Computer Engineering • Cybersecurity
+<b>Founder, Aeronexus Aerospace • Computer Engineering • Cybersecurity</b>
+
+<br><br>
 
 Building secure, intelligent and autonomous systems for real-world impact.
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/spandan-shah0312/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Spandan-Shah"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.youtube.com/@Spandanshah"> <img src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:spandanshah10@gmail.com"> <img src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/spandan-shah0312/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Spandan-Shah">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Spandanshah">
+<img src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:spandanshah10@gmail.com">
+<img src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br>
-
-<!-- ================================================================ -->
-
-<!-- ABOUT -->
-
-<!-- ================================================================ -->
 
 <div align="center">
 
 <h1><b>About Me</b></h1>
 
-Founder • Engineer • Deep-Tech Builder
+<b>Founder • Engineer • Deep-Tech Builder</b>
 
-<p> <img src="https://img.shields.io/badge/AI-5B5FEF?style=for-the-badge&labelColor=0F172A" /> <img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge&labelColor=0F172A" /> <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&labelColor=0F172A" /> <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge&labelColor=0F172A" /> <img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge&labelColor=0F172A" /> </p>
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-5B5FEF?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge&labelColor=0F172A" />
 
 </div>
 
 <br>
 
-<table width="100%"> <tr> <td width="100%" valign="top">
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
 
 <h1><b>Profile Summary</b></h1>
 
-I am a Computer Engineering undergraduate pursuing a Minor in Cybersecurity, with practical work across AI, embedded systems, computer vision, backend engineering, secure communication and UAV technologies.
+I am a <b>Computer Engineering undergraduate</b> pursuing a <b>Minor in Cybersecurity</b>, with practical work across AI, embedded systems, computer vision, backend engineering, secure communication and UAV technologies.
 
-I am the Founder of Aeronexus Aerospace, where I work on secure, intelligent and autonomous systems including mission-control software, embedded communication, AI-assisted situational awareness and infrastructure-constrained secure communication.
+<br><br>
 
-My work is driven by a simple idea: build systems that are not only technically interesting, but also practical, scalable and impactful in the real world.
+I am the <b>Founder of Aeronexus Aerospace</b>, where I work on secure, intelligent and autonomous systems including mission-control software, embedded communication, AI-assisted situational awareness and infrastructure-constrained secure communication.
 
-</td> </tr> </table>
+<br><br>
+
+My work is driven by a simple idea: build systems that are not only technically interesting, but also <b>practical, scalable and impactful in the real world</b>.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<table width="100%"> <tr>
+<table width="100%">
+<tr>
 
 <td width="50%" valign="top">
 
@@ -60,13 +108,23 @@ My work is driven by a simple idea: build systems that are not only technically 
 
 AI-powered software systems
 
+<br><br>
+
 Computer vision and video-intelligence solutions
+
+<br><br>
 
 Embedded and wireless communication systems
 
+<br><br>
+
 Secure communication architectures
 
+<br><br>
+
 Backend APIs and operational platforms
+
+<br><br>
 
 UAV mission-control and intelligent monitoring tools
 
@@ -76,27 +134,35 @@ UAV mission-control and intelligent monitoring tools
 
 <h1><b>Engineering Mindset</b></h1>
 
-I strongly believe real growth comes from continuous learning, curiosity, experimentation and execution.
+I strongly believe real growth comes from <b>continuous learning, curiosity, experimentation and execution</b>.
 
-Learn → Build → Test → Improve → Validate
+<br><br>
+
+<b>Learn → Build → Test → Improve → Validate</b>
+
+<br><br>
 
 I enjoy combining software, AI, hardware and security into complete systems rather than staying limited to one technical layer.
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
-<table width="100%"> <tr>
+<table width="100%">
+<tr>
 
 <td width="50%" valign="top">
 
 <h1><b>Founder Perspective</b></h1>
 
-As the Founder of Aeronexus Aerospace, I focus on transforming ideas into meaningful engineering systems.
+As the <b>Founder of Aeronexus Aerospace</b>, I focus on transforming ideas into meaningful engineering systems.
 
-Technical depth • Product thinking • Problem-first execution • Scalability • Practical innovation
+<br><br>
+
+<b>Technical depth • Product thinking • Problem-first execution • Scalability • Practical innovation</b>
 
 </td>
 
@@ -104,13 +170,16 @@ Technical depth • Product thinking • Problem-first execution • Scalability
 
 <h1><b>What Drives Me</b></h1>
 
-I am motivated by technology at the intersection of intelligence, security, autonomy, embedded engineering and aerospace/UAV systems.
+I am motivated by technology at the intersection of <b>intelligence, security, autonomy, embedded engineering and aerospace/UAV systems</b>.
 
-I prefer solving real operational problems over building projects only for demonstration.
+<br><br>
+
+I prefer solving <b>real operational problems</b> over building projects only for demonstration.
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
@@ -118,81 +187,137 @@ I prefer solving real operational problems over building projects only for demon
 
 <h1><b>Quick Snapshot</b></h1>
 
-<table> <tr> <td align="center" width="150"><h3>8+</h3><b>Hackathons</b></td> <td align="center" width="150"><h3>10+</h3><b>Major Projects</b></td> <td align="center" width="150"><h3>1</h3><b>Patent Application</b></td> <td align="center" width="150"><h3>∞</h3><b>Learning & Building</b></td> </tr> </table>
+<table width="100%">
+<tr>
+
+<td width="25%" align="center" valign="middle">
+
+<h1><b>8+</b></h1>
+<b>Hackathons</b>
+<br>
+<sub>Innovation Challenges</sub>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1><b>10+</b></h1>
+<b>Major Projects</b>
+<br>
+<sub>Multi-Domain Engineering</sub>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1><b>1</b></h1>
+<b>Patent Application</b>
+<br>
+<sub>Primary Applicant</sub>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<h1><b>∞</b></h1>
+<b>Learning & Building</b>
+<br>
+<sub>Continuous Improvement</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <h1><b>Current Focus</b></h1>
 
-<p> <img src="https://img.shields.io/badge/Artificial_Intelligence-5B5FEF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Secure_Systems-0F172A?style=for-the-badge" /> </p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-5B5FEF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Secure_Systems-0F172A?style=for-the-badge" />
 
-<br>
+<br><br>
 
-“Let the work make the statement.”
+<b>“Let the work make the statement.”</b>
 
 </div>
 
 <br>
-
-<!-- ================================================================ -->
-
-<!-- PROJECTS -->
-
-<!-- ================================================================ -->
 
 <div align="center">
 
 <h1><b>Projects</b></h1>
 
-Engineering Systems • Research Prototypes • Product Experiments
+<b>Engineering Systems • Research Prototypes • Product Experiments</b>
 
-<p> <img src="https://img.shields.io/badge/Problem_First-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Systems_Engineering-4F46E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Build_•_Validate_•_Improve-0891B2?style=for-the-badge" /> </p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Problem_First-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Systems_Engineering-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build_•_Validate_•_Improve-0891B2?style=for-the-badge" />
 
 </div>
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 01 / GOBLINWISP -->
+<h1><b>01 / GoblinWisp</b></h1>
 
-<!-- ================================================================ -->
-
-<table width="100%"> <tr>
-
-<td width="72%" valign="middle"> <h1><b>01 / GoblinWisp</b></h1> <b>Identity-Bound & Directionally Isolated Secure Session Prototype</b> </td>
-
-<td width="28%" align="right" valign="middle">
-
-<a href="https://github.com/Spandan-Shah/GoblinWisp"> <img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="https://github.com/Spandan-Shah/GoblinWisp"> <img src="https://img.shields.io/badge/Open_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<b>Identity-Bound & Directionally Isolated Secure Session Prototype</b>
 
 </td>
 
+<td width="30%" align="right" valign="middle">
+
+<a href="https://github.com/Spandan-Shah/GoblinWisp"><img src="https://img.shields.io/badge/Private-R%26D-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
 </tr>
 
-<!-- GoblinWisp cover image intentionally removed. Add a verified project image here later if required. -->
+<tr>
+<td colspan="2" align="center">
+
+<br>
+
+<b>Secure Embedded Communication Prototype</b>
+
+<br><br>
+
+<a href="https://github.com/Spandan-Shah/GoblinWisp">
+<img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Spandan-Shah/GoblinWisp">
+<img src="https://img.shields.io/badge/Open_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+</td>
+</tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h1><b>️ The Problem</b></h1>
+<h1><b>The Problem</b></h1>
 
-Peer devices operating in infrastructure-constrained environments may require secure communication without cloud servers, cellular connectivity or centralized authentication infrastructure.
-
-Poor session handling, replayed packets, unsafe reset behaviour and overly broad bidirectional trust can weaken peer communication.
+Peer devices operating in infrastructure-constrained environments may require secure communication without cloud servers, cellular connectivity or centralized authentication infrastructure.<br><br>Poor session handling, replayed packets, unsafe reset behaviour and overly broad bidirectional trust can weaken peer communication.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h1><b>️ What I Built</b></h1>
+<h1><b>What I Built</b></h1>
 
-Built an ESP32-based proof-of-concept over ESP-NOW with a dedicated secure-session layer implementing identity-bound sessions, authenticated encryption, direction-specific cryptographic state, replay handling and authenticated re-establishment.
+Built an <b>ESP32-based proof-of-concept over ESP-NOW</b> with a dedicated secure-session layer implementing identity-bound sessions, authenticated encryption, direction-specific cryptographic state, replay handling and authenticated re-establishment.
 
 </td>
 
@@ -204,9 +329,7 @@ Built an ESP32-based proof-of-concept over ESP-NOW with a dedicated secure-sessi
 
 <h1><b>Engineering Focus</b></h1>
 
-Directional Isolation — opposite communication directions maintain independent security state.
-
-Transport Independence — ESP-NOW is the prototype transport while the session architecture remains conceptually above the underlying channel.
+<b>Directional Isolation</b><br>Opposite communication directions maintain independent security state.<br><br><b>Transport Independence</b><br>ESP-NOW is used as the prototype transport while the session architecture remains conceptually above the underlying channel.
 
 </td>
 
@@ -214,14 +337,12 @@ Transport Independence — ESP-NOW is the prototype transport while the session 
 
 <h1><b>Project State</b></h1>
 
-Timeline: Dec 2025 — Aug 2026
-Status: Embedded Security Prototype
-Role: Lead Developer • Inventor
-Domain: Embedded Security • Applied Cryptography
+<b>Timeline:</b> Dec 2025 — Aug 2026<br><b>Status:</b> Embedded Security Prototype<br><b>Role:</b> Lead Developer • Inventor<br><b>Domain:</b> Embedded Security • Applied Cryptography
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
@@ -235,43 +356,62 @@ Domain: Embedded Security • Applied Cryptography
 
 <br>
 
-<details> <summary><b>️ Explore GoblinWisp Prototype Gallery</b></summary> <br> <table width="100%"> <tr> <td width="33%"><img src="./assets/goblinwisp-01.png" width="100%" alt="GoblinWisp view 1" /></td> <td width="33%"><img src="./assets/goblinwisp-02.png" width="100%" alt="GoblinWisp view 2" /></td> <td width="34%"><img src="./assets/goblinwisp-03.png" width="100%" alt="GoblinWisp view 3" /></td> </tr> </table> </details>
+<details>
+<summary><b>Explore GoblinWisp Prototype Gallery</b></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%"><img src="./assets/goblinwisp-01.png" width="100%" alt="GoblinWisp view 1" /></td>
+<td width="33%"><img src="./assets/goblinwisp-02.png" width="100%" alt="GoblinWisp view 2" /></td>
+<td width="34%"><img src="./assets/goblinwisp-03.png" width="100%" alt="GoblinWisp view 3" /></td>
+</tr>
+
+</table>
+
+</details>
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 02 / AERONEXUS -->
+<h1><b>02 / Aeronexus Command Center</b></h1>
 
-<!-- ================================================================ -->
+<b>Unified Mission Control for Next-Generation UAV Systems</b>
 
-<table width="100%"> <tr>
+</td>
 
-<td width="72%" valign="middle"> <h1><b>02 / Aeronexus Command Center</b></h1> <b>Unified Mission Control for Next-Generation UAV Systems</b> </td>
+<td width="30%" align="right" valign="middle">
 
-<td width="28%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" /> </td>
+<img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" />
 
+</td>
 </tr>
 
-<tr> <td colspan="2"> <img src="./assets/aeronexus-command-center-cover.png" width="100%" alt="Aeronexus Command Center" /> </td> </tr>
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/aeronexus-command-center-cover.png" width="100%" alt="Aeronexus Command Center" />
+</td>
+</tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h1><b>️ The Problem</b></h1>
+<h1><b>The Problem</b></h1>
 
-UAV missions often split telemetry, mission mapping, aircraft health, battery state, operational zones, alerts and logs across disconnected interfaces.
-
-This fragmentation increases operator workload and weakens the unified operational picture required during time-sensitive missions.
+UAV missions often split telemetry, mission mapping, aircraft health, battery state, operational zones, alerts and logs across disconnected interfaces.<br><br>This fragmentation increases operator workload and weakens the unified operational picture required during time-sensitive missions.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h1><b>️ What I Built</b></h1>
+<h1><b>What I Built</b></h1>
 
-Developed a unified mission-control platform combining telemetry, route visualization, mission mapping, geofencing, operational zones, aircraft health, battery monitoring, alerts, fleet status and operator controls.
+Developed a <b>unified mission-control platform</b> combining telemetry, route visualization, mission mapping, geofencing, operational zones, aircraft health, battery monitoring, alerts, fleet status and operator controls.
 
 </td>
 
@@ -283,9 +423,7 @@ Developed a unified mission-control platform combining telemetry, route visualiz
 
 <h1><b>Engineering Focus</b></h1>
 
-Unified Operational Awareness — mission and aircraft information consolidated into one operator interface.
-
-Modular Backend Architecture — FastAPI services support telemetry ingestion, processing, persistence and communication between system components.
+<b>Unified Operational Awareness</b><br>Mission and aircraft information is consolidated into one operator interface.<br><br><b>Modular Backend Architecture</b><br>FastAPI services support telemetry ingestion, processing, persistence and communication between system components.
 
 </td>
 
@@ -293,14 +431,12 @@ Modular Backend Architecture — FastAPI services support telemetry ingestion, p
 
 <h1><b>Project State</b></h1>
 
-Timeline: Jul 2026 — Present
-Status: Active Development • Software PoC
-Role: Founder • Lead Developer
-Domain: UAV Systems • Mission Control • Backend Engineering
+<b>Timeline:</b> Jul 2026 — Present<br><b>Status:</b> Active Development • Software PoC<br><b>Role:</b> Founder • Lead Developer<br><b>Domain:</b> UAV Systems • Mission Control • Backend Engineering
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
@@ -314,31 +450,57 @@ Domain: UAV Systems • Mission Control • Backend Engineering
 
 <br>
 
-<details> <summary><b>️ Explore Command Center Interface Gallery</b></summary> <br> <table width="100%"> <tr> <td width="33%"><img src="./assets/aeronexus-01.png" width="100%" alt="Aeronexus view 1" /></td> <td width="33%"><img src="./assets/aeronexus-02.png" width="100%" alt="Aeronexus view 2" /></td> <td width="34%"><img src="./assets/aeronexus-03.png" width="100%" alt="Aeronexus view 3" /></td> </tr> <tr> <td width="33%"><img src="./assets/aeronexus-04.png" width="100%" alt="Aeronexus view 4" /></td> <td width="33%"><img src="./assets/aeronexus-05.png" width="100%" alt="Aeronexus view 5" /></td> <td width="34%"><img src="./assets/aeronexus-06.png" width="100%" alt="Aeronexus view 6" /></td> </tr> </table> </details>
+<details>
+<summary><b>Explore Command Center Interface Gallery</b></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%"><img src="./assets/aeronexus-01.png" width="100%" alt="Aeronexus view 1" /></td>
+<td width="33%"><img src="./assets/aeronexus-02.png" width="100%" alt="Aeronexus view 2" /></td>
+<td width="34%"><img src="./assets/aeronexus-03.png" width="100%" alt="Aeronexus view 3" /></td>
+</tr>
+<tr>
+<td width="33%"><img src="./assets/aeronexus-04.png" width="100%" alt="Aeronexus view 4" /></td>
+<td width="33%"><img src="./assets/aeronexus-05.png" width="100%" alt="Aeronexus view 5" /></td>
+<td width="34%"><img src="./assets/aeronexus-06.png" width="100%" alt="Aeronexus view 6" /></td>
+</tr>
+
+</table>
+
+</details>
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 03 / VIGILANTEDGE -->
+<h1><b>03 / VigilantEdge</b></h1>
 
-<!-- ================================================================ -->
+<b>Adaptive AI Firewall & Self-Healing Cyber Defense</b>
 
-<table width="100%"> <tr>
+</td>
 
-<td width="72%" valign="middle"> <h1><b>03 / VigilantEdge</b></h1> <b>Adaptive AI Firewall & Self-Healing Cyber Defense</b> </td>
+<td width="30%" align="right" valign="middle">
 
-<td width="28%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" /> </td>
+<img src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&logo=github&logoColor=white" />
 
+</td>
 </tr>
 
-<tr> <td colspan="2"> <img src="./assets/vigilantedge-cover.png" width="100%" alt="VigilantEdge cybersecurity platform" /> </td> </tr>
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/vigilantedge-cover.png" width="100%" alt="VigilantEdge cybersecurity platform" />
+</td>
+</tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h1><b>️ The Problem</b></h1>
+<h1><b>The Problem</b></h1>
 
 Traditional Web Application Firewalls rely heavily on static signatures and manually configured policies, making them weaker against application-specific anomalies, modified attack behaviour and contextual API abuse.
 
@@ -346,9 +508,9 @@ Traditional Web Application Firewalls rely heavily on static signatures and manu
 
 <td width="50%" valign="top">
 
-<h1><b>️ What I Designed</b></h1>
+<h1><b>What I Designed</b></h1>
 
-Designed a staged adaptive defensive architecture combining reverse-proxy controls, request validation, behavioural analysis, ML-assisted anomaly detection, contextual risk scoring, explainability and policy-controlled remediation.
+Designed a staged adaptive defensive architecture combining <b>reverse-proxy controls, request validation, behavioural analysis, ML-assisted anomaly detection, contextual risk scoring, explainability and policy-controlled remediation</b>.
 
 </td>
 
@@ -360,9 +522,7 @@ Designed a staged adaptive defensive architecture combining reverse-proxy contro
 
 <h1><b>Engineering Focus</b></h1>
 
-Adaptive Detection — conventional controls + behavioural analysis + ML-assisted anomaly detection.
-
-Explainability — interpretable risk scoring for reviewable AI-assisted security decisions.
+<b>Adaptive Detection</b><br>Conventional controls + behavioural analysis + ML-assisted anomaly detection.<br><br><b>Explainability</b><br>Interpretable risk scoring for reviewable AI-assisted security decisions.
 
 </td>
 
@@ -370,14 +530,12 @@ Explainability — interpretable risk scoring for reviewable AI-assisted securit
 
 <h1><b>Project State</b></h1>
 
-Timeline: Jan 2026 — Present
-Status: Architecture Defined • Staged R&D
-Role: Lead Developer • Researcher
-Domain: AI • Cybersecurity • Backend Systems
+<b>Timeline:</b> Jan 2026 — Present<br><b>Status:</b> Architecture Defined • Staged R&D<br><b>Role:</b> Lead Developer • Researcher<br><b>Domain:</b> AI • Cybersecurity • Backend Systems
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
@@ -393,31 +551,52 @@ Domain: AI • Cybersecurity • Backend Systems
 
 <br>
 
-<details> <summary><b>️ Explore VigilantEdge Architecture & Interface Gallery</b></summary> <br> <table width="100%"> <tr> <td width="33%"><img src="./assets/vigilantedge-01.png" width="100%" alt="VigilantEdge view 1" /></td> <td width="33%"><img src="./assets/vigilantedge-02.png" width="100%" alt="VigilantEdge view 2" /></td> <td width="34%"><img src="./assets/vigilantedge-03.png" width="100%" alt="VigilantEdge view 3" /></td> </tr> </table> </details>
+<details>
+<summary><b>Explore VigilantEdge Architecture & Interface Gallery</b></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%"><img src="./assets/vigilantedge-01.png" width="100%" alt="VigilantEdge view 1" /></td>
+<td width="33%"><img src="./assets/vigilantedge-02.png" width="100%" alt="VigilantEdge view 2" /></td>
+<td width="34%"><img src="./assets/vigilantedge-03.png" width="100%" alt="VigilantEdge view 3" /></td>
+</tr>
+
+</table>
+
+</details>
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 04 / EXOTRACE -->
+<h1><b>04 / ExoTrace</b></h1>
 
-<!-- ================================================================ -->
+<b>AI-Assisted Exoplanet Transit Detection & Candidate Screening</b>
 
-<table width="100%"> <tr>
+</td>
 
-<td width="72%" valign="middle"> <h1><b>04 / ExoTrace</b></h1> <b>AI-Assisted Exoplanet Transit Detection & Candidate Screening</b> </td>
+<td width="30%" align="right" valign="middle">
 
-<td width="28%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Research-Prototype-6D28D9?style=for-the-badge" /> </td>
+<img src="https://img.shields.io/badge/Research-Prototype-6D28D9?style=for-the-badge" />
 
+</td>
 </tr>
 
-<tr> <td colspan="2"> <img src="./assets/exotrace-cover.png" width="100%" alt="ExoTrace research prototype" /> </td> </tr>
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/exotrace-cover.png" width="100%" alt="ExoTrace research prototype" />
+</td>
+</tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h1><b>️ The Problem</b></h1>
+<h1><b>The Problem</b></h1>
 
 Astronomical light curves contain noise, stellar variability and false-positive patterns that can resemble genuine planetary transit signals.
 
@@ -425,9 +604,9 @@ Astronomical light curves contain noise, stellar variability and false-positive 
 
 <td width="50%" valign="top">
 
-<h1><b>️ What I Built</b></h1>
+<h1><b>What I Built</b></h1>
 
-Built a scientific ML pipeline that processes TESS light curves, applies Box Least Squares, extracts transit-related features and uses ExtraTrees for candidate prioritization.
+Built a scientific ML pipeline that processes <b>TESS light curves</b>, applies <b>Box Least Squares</b>, extracts transit-related features and uses <b>ExtraTrees</b> for candidate prioritization.
 
 </td>
 
@@ -439,9 +618,7 @@ Built a scientific ML pipeline that processes TESS light curves, applies Box Lea
 
 <h1><b>Validation Snapshot</b></h1>
 
-Held-out accuracy: 78%
-Macro F1: 77%
-Candidate recall at screening threshold: 98%
+<b>Held-out accuracy:</b> 78%<br><b>Macro F1:</b> 77%<br><b>Candidate recall at screening threshold:</b> 98%
 
 </td>
 
@@ -449,13 +626,12 @@ Candidate recall at screening threshold: 98%
 
 <h1><b>Project State</b></h1>
 
-Timeline: 2026
-Status: Functional Research Prototype
-Domain: Scientific ML • Astronomy • Time-Series Analysis
+<b>Timeline:</b> 2026<br><b>Status:</b> Functional Research Prototype<br><b>Role:</b> Developer • Research Contributor<br><b>Domain:</b> Scientific ML • Astronomy • Time-Series Analysis
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
 
@@ -469,34 +645,87 @@ Domain: Scientific ML • Astronomy • Time-Series Analysis
 
 <br>
 
-<details> <summary><b>️ Explore ExoTrace Research Gallery</b></summary> <br> <table width="100%"> <tr> <td width="33%"><img src="./assets/exotrace-01.png" width="100%" alt="ExoTrace view 1" /></td> <td width="33%"><img src="./assets/exotrace-02.png" width="100%" alt="ExoTrace view 2" /></td> <td width="34%"><img src="./assets/exotrace-03.png" width="100%" alt="ExoTrace view 3" /></td> </tr> </table> </details>
+<details>
+<summary><b>Explore ExoTrace Research Gallery</b></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%"><img src="./assets/exotrace-01.png" width="100%" alt="ExoTrace view 1" /></td>
+<td width="33%"><img src="./assets/exotrace-02.png" width="100%" alt="ExoTrace view 2" /></td>
+<td width="34%"><img src="./assets/exotrace-03.png" width="100%" alt="ExoTrace view 3" /></td>
+</tr>
+
+</table>
+
+</details>
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 05 / VIGIL -->
+<h1><b>05 / Vigil</b></h1>
 
-<!-- ================================================================ -->
+<b>AI-Driven Situational Awareness & Real-Time Threat Detection for Women’s Safety</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>05 / Vigil</b></h1> <b>AI-Driven Situational Awareness & Real-Time Threat Detection for Women’s Safety</b> </td> <td width="30%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Computer_Vision-System-2563EB?style=for-the-badge" /> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/vigil-cover.png" width="100%" alt="Vigil visual intelligence system" /> </td> </tr>
+<td width="30%" align="right" valign="middle">
 
-<tr> <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Computer_Vision-System-2563EB?style=for-the-badge" />
 
-<h1><b>️ System Focus</b></h1>
+</td>
+</tr>
 
-Real-time person detection, crowd composition, contextual safety analysis, isolated-environment detection, SOS/distress gesture recognition and alert-oriented visual intelligence.
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/vigil-cover.png" width="100%" alt="Vigil visual intelligence system" />
+</td>
+</tr>
 
-</td> <td width="50%" valign="top">
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Conventional monitoring systems can detect people or motion but often lack contextual understanding of potentially unsafe situations, crowd composition, isolation, distress gestures and rapidly changing visual conditions.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Developed computer-vision pipelines for <b>person detection, crowd composition, isolated-environment analysis, distress/SOS gesture recognition and contextual multi-signal situational awareness</b>.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Engineering Focus</b></h1>
+
+<b>Multi-Signal Visual Reasoning</b><br>Combining detection, crowd context, gesture and scene-level signals instead of relying on a single trigger.<br><br><b>Real-Time Processing</b><br>Designed around live video streams, alert delivery and low-latency operator awareness.
+
+</td>
+
+<td width="50%" valign="top">
 
 <h1><b>Project State</b></h1>
 
-Timeline: Jul 2024 — Jun 2026
-Domain: Computer Vision • AI • Video Analytics • Public Safety
+<b>Timeline:</b> Jul 2024 — Jun 2026<br><b>Status:</b> Functional Hackathon / Research Work<br><b>Role:</b> Developer<br><b>Domain:</b> Computer Vision • AI • Video Analytics • Public Safety
 
-</td> </tr> </table>
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -510,29 +739,69 @@ Domain: Computer Vision • AI • Video Analytics • Public Safety
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 06 / NARCOTRACE AI -->
+<h1><b>06 / NarcoTrace AI</b></h1>
 
-<!-- ================================================================ -->
+<b>Multimodal Threat Intelligence for Illicit-Network Analysis</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>06 / NarcoTrace AI</b></h1> <b>Multimodal Threat Intelligence for Illicit-Network Analysis</b> </td> <td width="30%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Threat_Intelligence-R&D-DB2777?style=for-the-badge" /> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/narcotrace-cover.png" width="100%" alt="NarcoTrace AI" /> </td> </tr>
+<td width="30%" align="right" valign="middle">
 
-<tr> <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Threat_Intelligence-R%26D-DB2777?style=for-the-badge" />
 
-<h1><b>️ System Focus</b></h1>
+</td>
+</tr>
 
-AI/NLP, computer vision, OSINT, network analysis and multi-signal risk analysis across publicly available and authorized data sources.
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/narcotrace-cover.png" width="100%" alt="NarcoTrace AI" />
+</td>
+</tr>
 
-</td> <td width="50%" valign="top">
+<tr>
 
-<h1><b>Responsible Use</b></h1>
+<td width="50%" valign="top">
 
-The framework is intended for authorized intelligence analysis with privacy, legal constraints, provenance, false positives and human oversight treated as core design requirements.
+<h1><b>The Problem</b></h1>
 
-</td> </tr> </table>
+Threat-relevant information can be fragmented across text, images, public web sources and relationship networks, making manual correlation slow and inconsistent.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Designed a multimodal intelligence framework combining <b>AI/NLP, computer vision, OSINT, scraping, geospatial processing and network analysis</b> for authorized investigation and risk analysis.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Responsible Design</b></h1>
+
+<b>Human Oversight</b><br>Outputs are intended to support—not replace—human analysis.<br><br><b>Authorized Data Use</b><br>Privacy, legal constraints, provenance and false-positive handling are treated as core design requirements.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> Aug 2024 — Dec 2025<br><b>Status:</b> Research / Hackathon Prototype<br><b>Role:</b> Developer • Research Contributor<br><b>Domain:</b> AI • NLP • OSINT • Threat Intelligence
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -546,23 +815,69 @@ The framework is intended for authorized intelligence analysis with privacy, leg
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 07 / SPECTRAGUARD -->
+<h1><b>07 / SpectraGuard</b></h1>
 
-<!-- ================================================================ -->
+<b>ESP32 & NRF24L01 Wireless Security / RF Resilience Research Testbed</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>07 / SpectraGuard</b></h1> <b>ESP32 & NRF24L01 Wireless Security / RF Resilience Research Testbed</b> </td> <td width="30%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Wireless_Security-Testbed-0891B2?style=for-the-badge" /> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/spectraguard-cover.png" width="100%" alt="SpectraGuard RF security testbed" /> </td> </tr>
+<td width="30%" align="right" valign="middle">
 
-<tr> <td width="100%" valign="top">
+<img src="https://img.shields.io/badge/Wireless_Security-Testbed-0891B2?style=for-the-badge" />
 
-<h1><b>Research Scope</b></h1>
+</td>
+</tr>
 
-Controlled, authorized wireless-protocol experimentation focused on RF communication, interference behaviour, packet-level resilience, embedded interfacing and defensive security testing.
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/spectraguard-cover.png" width="100%" alt="SpectraGuard RF security testbed" />
+</td>
+</tr>
 
-</td> </tr> </table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Wireless embedded systems can experience interference, packet loss, spoofing attempts and availability issues that are difficult to study safely without a controlled test environment.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Built a controlled <b>ESP32 + NRF24L01 research testbed</b> for authorized packet-level experimentation, RF behaviour observation, wireless resilience testing and embedded security analysis.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Research Focus</b></h1>
+
+<b>Controlled RF Experimentation</b><br>Packet-level behaviour, SPI interfacing, interference and resilience analysis.<br><br><b>Defensive Security Testing</b><br>Experiments are framed for authorized lab use and wireless-security learning.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> May 2025 — Jun 2025<br><b>Status:</b> Embedded Security Testbed<br><b>Role:</b> Developer / Researcher<br><b>Domain:</b> Wireless Security • Embedded Systems • RF
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -576,29 +891,69 @@ Controlled, authorized wireless-protocol experimentation focused on RF communica
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 08 / EXAMFORGE -->
+<h1><b>08 / ExamForge AI</b></h1>
 
-<!-- ================================================================ -->
+<b>Generative Assessment & Question Paper Builder</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>08 / ExamForge AI</b></h1> <b>Generative Assessment & Question Paper Builder</b> </td> <td width="30%" align="right" valign="middle"> <a href="https://github.com/Spandan-Shah/Question-Paper-Generator"> <img src="https://img.shields.io/badge/View-Repository-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/examforge-cover.png" width="100%" alt="ExamForge AI" /> </td> </tr>
+<td width="30%" align="right" valign="middle">
 
-<tr> <td width="50%" valign="top">
+<a href="https://github.com/Spandan-Shah/Question-Paper-Generator"><img src="https://img.shields.io/badge/View-Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<h1><b>️ What I Built</b></h1>
+</td>
+</tr>
 
-A Node.js-based Generative AI assessment system that transforms subject, topic, question type, difficulty and marks-distribution inputs into structured prompts and formatted GTU-oriented practice material.
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/examforge-cover.png" width="100%" alt="ExamForge AI" />
+</td>
+</tr>
 
-</td> <td width="50%" valign="top">
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Students often need targeted practice by subject, topic, difficulty, marks distribution and question type, while manually preparing customized practice papers is repetitive.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Built a <b>Node.js-based Generative AI assessment system</b> that transforms structured academic inputs into prompts and formatted GTU-oriented practice material.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h1><b>Practical Use</b></h1>
 
-I used the project directly in my own exam preparation for targeted question generation, revision and customized mock-paper practice.
+<b>Personal Exam Preparation</b><br>I used the system directly for targeted question generation, revision and customized mock-paper practice.<br><br><b>Prompt-Controlled Output</b><br>Inputs guide topic, difficulty, question type and marks distribution.
 
-</td> </tr> </table>
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> Sep 2025<br><b>Status:</b> Functional Application<br><b>Role:</b> Developer<br><b>Domain:</b> Generative AI • Backend • Education Technology
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -612,23 +967,69 @@ I used the project directly in my own exam preparation for targeted question gen
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 09 / FLOWOPS -->
+<h1><b>09 / FlowOps</b></h1>
 
-<!-- ================================================================ -->
+<b>Automated Registration & Participant Management Workflow</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>09 / FlowOps</b></h1> <b>Automated Registration & Participant Management Workflow</b> </td> <td width="30%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Workflow-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/flowops-cover.png" width="100%" alt="FlowOps workflow automation" /> </td> </tr>
+<td width="30%" align="right" valign="middle">
 
-<tr> <td width="100%" valign="top">
+<img src="https://img.shields.io/badge/Workflow-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
-<h1><b>️ What I Built</b></h1>
+</td>
+</tr>
 
-An event-driven n8n workflow for capturing, validating and processing hackathon registration and participant data through webhooks and structured automation stages.
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/flowops-cover.png" width="100%" alt="FlowOps workflow automation" />
+</td>
+</tr>
 
-</td> </tr> </table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Hackathon and event registrations can involve repetitive intake, validation, routing and participant-data processing that becomes error-prone when handled manually.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Built an <b>event-driven n8n workflow</b> for capturing, validating and processing registration and participant data through webhooks and modular automation stages.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Engineering Focus</b></h1>
+
+<b>Event-Driven Workflow</b><br>Webhook-triggered processing with modular validation and data-flow stages.<br><br><b>Operational Automation</b><br>Reduced repetitive participant-management steps through reusable workflow components.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> Sep 2025<br><b>Status:</b> Functional Workflow Prototype<br><b>Role:</b> Developer<br><b>Domain:</b> Automation • Webhooks • Data Integration
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -642,15 +1043,69 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 10 / BERLIN -->
+<h1><b>10 / Berlin</b></h1>
 
-<!-- ================================================================ -->
+<b>Intelligent Computer-Vision Framework for Traffic Analysis</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>10 / Berlin</b></h1> <b>Intelligent Computer-Vision Framework for Traffic Analysis</b> </td> <td width="30%" align="right" valign="middle"> <img src="https://img.shields.io/badge/Traffic_Vision-Prototype-EA580C?style=for-the-badge" /> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/berlin-cover.png" width="100%" alt="Berlin traffic vision system" /> </td> </tr> </table>
+<td width="30%" align="right" valign="middle">
+
+<img src="https://img.shields.io/badge/Traffic_Vision-Prototype-EA580C?style=for-the-badge" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/berlin-cover.png" width="100%" alt="Berlin traffic vision system" />
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Traffic monitoring requires more than vehicle detection: useful analysis depends on persistent tracking, vehicle classification, license-plate processing, trajectory understanding and speed estimation.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Developed a computer-vision framework combining <b>YOLO vehicle detection, DeepSORT tracking, OCR-based plate processing, speed estimation and traffic analytics</b>.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Engineering Focus</b></h1>
+
+<b>Persistent Vehicle Tracking</b><br>Maintains identities across frames for trajectory-level analysis.<br><br><b>Traffic Intelligence</b><br>Combines classification, OCR, speed and movement information into higher-level analytics.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> Prototype developed by 2026<br><b>Status:</b> Computer-Vision Prototype<br><b>Role:</b> Developer<br><b>Domain:</b> Computer Vision • OCR • Tracking • Traffic Analytics
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -664,15 +1119,69 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <br><br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
-<!-- 11 / TINYML ESP32-CAM -->
+<h1><b>11 / TinyML — ESP32-CAM Vision</b></h1>
 
-<!-- ================================================================ -->
+<b>Embedded Camera Streaming & Receiver-Side Object Detection</b>
 
-<table width="100%"> <tr> <td width="70%" valign="middle"> <h1><b>11 / TinyML — ESP32-CAM Vision</b></h1> <b>Embedded Camera Streaming & Receiver-Side Object Detection</b> </td> <td width="30%" align="right" valign="middle"> <a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam"> <img src="https://img.shields.io/badge/View-Repository-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr>
+</td>
 
-<tr> <td colspan="2"> <img src="./assets/tinyml-cover.png" width="100%" alt="TinyML ESP32-CAM" /> </td> </tr> </table>
+<td width="30%" align="right" valign="middle">
+
+<a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam"><img src="https://img.shields.io/badge/View-Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="./assets/tinyml-cover.png" width="100%" alt="TinyML ESP32-CAM" />
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>The Problem</b></h1>
+
+Resource-constrained camera devices have limited compute and memory, making stable low-latency vision difficult when trying to perform all inference directly on-device.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>What I Built</b></h1>
+
+Built an <b>ESP32-CAM streaming pipeline</b> that sends image frames over UDP to a receiver-side object-detection process, prioritizing stable streaming, frame dropping and low latency.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h1><b>Engineering Focus</b></h1>
+
+<b>Edge-to-Receiver Pipeline</b><br>Separates image capture/transport from heavier receiver-side inference.<br><br><b>Stability-First Streaming</b><br>Uses frame dropping and lightweight transport to avoid backlog and reduce latency.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Project State</b></h1>
+
+<b>Timeline:</b> 2026<br><b>Status:</b> Functional Embedded Vision Prototype<br><b>Role:</b> Developer<br><b>Domain:</b> ESP32-CAM • UDP Streaming • Computer Vision
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -686,33 +1195,48 @@ An event-driven n8n workflow for capturing, validating and processing hackathon 
 
 <br><br>
 
-<!-- ================================================================ -->
-
-<!-- TECHNICAL SKILLS / CROSS-PROJECT FOUNDATIONS -->
-
-<!-- ================================================================ -->
-
 <div align="center">
 
 <h1><b>Technical Skills</b></h1>
 
-Cross-Project Foundations
-
-<sub> Project-specific skills are mapped inside their respective project sections above. The skills below were present in the supplied inventory without one explicit project association, so they are kept here instead of being artificially assigned to a project. </sub>
+<b>Cross-Project Foundations</b>
 
 <br><br>
 
-<p> <img src="https://img.shields.io/badge/Vanilla_JavaScript-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Manifest_V3_Structure-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Google_Safe_Browsing_API-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Natural_Language_Processing_%28NLP%29-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-CORS-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Artificial_Intelligence_%28AI%29-475569?style=flat-square" /> </p> <p> <img src="https://img.shields.io/badge/Python-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Machine_Learning-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Scrapy-475569?style=flat-square" /> <img src="https://img.shields.io/badge/BeautifulSoup-475569?style=flat-square" /> <img src="https://img.shields.io/badge/TensorFlow-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Scikit-Learn-475569?style=flat-square" /> </p> <p> <img src="https://img.shields.io/badge/MySQL-475569?style=flat-square" /> <img src="https://img.shields.io/badge/UI%2FUX_Design-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Java-475569?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-475569?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-475569?style=flat-square" /> <img src="https://img.shields.io/badge/Video_Editing-475569?style=flat-square" /> </p> <p> <img src="https://img.shields.io/badge/Problem_Solving-475569?style=flat-square" /> </p>
+<sub>
+Project-specific skills are mapped inside their respective project sections.
+The skills below are broader foundations that apply across multiple projects.
+</sub>
 
 </div>
 
 <br>
 
-<!-- ================================================================ -->
+<table width="100%">
+<tr>
 
-<!-- PATENT -->
+<td width="50%" valign="top">
 
-<!-- ================================================================ -->
+<h1><b>Software & AI Foundations</b></h1>
+
+<p><img src="https://img.shields.io/badge/Vanilla_JavaScript-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/Manifest_V3_Structure-009688?style=flat-square" /> <img src="https://img.shields.io/badge/Google_Safe_Browsing_API-009639?style=flat-square" /> <img src="https://img.shields.io/badge/Natural_Language_Processing_%28NLP%29-DC382D?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-CORS-E92063?style=flat-square" /> <img src="https://img.shields.io/badge/Artificial_Intelligence_%28AI%29-013243?style=flat-square" /></p>
+<p><img src="https://img.shields.io/badge/Python-150458?style=flat-square" /> <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Scrapy-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/BeautifulSoup-20232A?style=flat-square" /> <img src="https://img.shields.io/badge/TensorFlow-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Scikit-Learn-7C3AED?style=flat-square" /></p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h1><b>Engineering & Product Foundations</b></h1>
+
+<p><img src="https://img.shields.io/badge/MySQL-DB2777?style=flat-square" /> <img src="https://img.shields.io/badge/UI%2FUX_Design-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Java-059669?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-EA580C?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/Video_Editing-4F46E5?style=flat-square" /></p>
+<p><img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=flat-square" /></p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
@@ -720,37 +1244,44 @@ Cross-Project Foundations
 
 </div>
 
-<table width="100%"> <tr>
+<table width="100%">
+<tr>
 
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
-Directionally-Isolated Identity-Bound Secure Session Architecture for Infrastructure-Free Peer Communication Systems
+<h1><b>Directionally-Isolated Identity-Bound Secure Session Architecture</b></h1>
 
-Indian Patent Application — Pending
+<b>for Infrastructure-Free Peer Communication Systems</b>
+
+<br><br>
+
+<b>Indian Patent Application — Pending</b>
+
+<br><br>
 
 Research focus includes identity-bound secure sessions, direction-specific cryptographic separation, authenticated encryption, replay-resistant sequencing, reset-safe invalidation and authenticated re-establishment for infrastructure-constrained peer communication.
+
+<br><br>
 
 Selected implementation and claim-level details are intentionally abstracted while the patent application remains pending.
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="35%" valign="top" align="center">
 
 <h1><b>Focus Areas</b></h1>
 
-<p> <img src="https://img.shields.io/badge/Secure_Sessions-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_Cryptography-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Embedded_Security-0F766E?style=flat-square" /> <img src="https://img.shields.io/badge/Infrastructure--Free_Comms-2563EB?style=flat-square" /> </p>
+<img src="https://img.shields.io/badge/Secure_Sessions-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Applied_Cryptography-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded_Security-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Infrastructure--Free_Comms-2563EB?style=flat-square" />
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 <br>
-
-<!-- ================================================================ -->
-
-<!-- LEADERSHIP -->
-
-<!-- ================================================================ -->
 
 <div align="center">
 
@@ -760,67 +1291,81 @@ Selected implementation and claim-level details are intentionally abstracted whi
 
 <table width="100%">
 
-<tr> <td width="22%" valign="top"><b>2026 — Present</b></td> <td width="78%" valign="top">
+<tr>
+<td width="25%" valign="top" align="center"><b>2026 — Present</b></td>
+<td width="75%" valign="top">
 
-Founder — Aeronexus Aerospace
+<h1><b>Founder — Aeronexus Aerospace</b></h1>
 
 Working on secure, intelligent and autonomous UAV systems, mission software, embedded communication and deep-tech R&D.
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="22%" valign="top"><b>Present</b></td> <td width="78%" valign="top">
+<tr>
+<td width="25%" valign="top" align="center"><b>Present</b></td>
+<td width="75%" valign="top">
 
-Founder — Blackout Community
+<h1><b>Founder — Blackout Community</b></h1>
 
 Student technology and hackathon community focused on collaborative development, experimentation and peer learning.
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="22%" valign="top"><b>2025</b></td> <td width="78%" valign="top">
+<tr>
+<td width="25%" valign="top" align="center"><b>2025</b></td>
+<td width="75%" valign="top">
 
-Student Coordinator — Smart India Hackathon
+<h1><b>Student Coordinator — Smart India Hackathon</b></h1>
 
-Coordinated the institute-level internal selection round involving 20+ student teams, faculty members, mentors and evaluators.
+Coordinated the institute-level internal selection round involving <b>20+ student teams</b>, faculty members, mentors and evaluators.
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="22%" valign="top"><b>2024 — Present</b></td> <td width="78%" valign="top">
+<tr>
+<td width="25%" valign="top" align="center"><b>2024 — Present</b></td>
+<td width="75%" valign="top">
 
-Hackathons & Innovation Challenges
+<h1><b>Hackathons & Innovation Challenges</b></h1>
 
-Participated in 8+ hackathons and innovation challenges across AI/ML, computer vision, cybersecurity, backend systems, embedded engineering and multidisciplinary product development.
+Participated in <b>8+ hackathons and innovation challenges</b> across AI/ML, computer vision, cybersecurity, backend systems, embedded engineering and multidisciplinary product development.
 
-</td> </tr>
+</td>
+</tr>
 
 </table>
 
 <br>
 
-<!-- ================================================================ -->
-
-<!-- CONNECT -->
-
-<!-- ================================================================ -->
-
 <div align="center">
 
 <h1><b>Let's Connect</b></h1>
 
-Engineering • R&D • Deep-Tech • Collaboration
+<b>Engineering • R&D • Deep-Tech • Collaboration</b>
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/spandan-shah0312/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/spandan-shah0312/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://github.com/Spandan-Shah"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Spandan-Shah">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<a href="https://www.youtube.com/@Spandanshah"> <img src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+<a href="https://www.youtube.com/@Spandanshah">
+<img src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-<a href="mailto:spandanshah10@gmail.com"> <img src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:spandanshah10@gmail.com">
+<img src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br><br>
 
-Let the work make the statement.
+<h1><b>Let the work make the statement.</b></h1>
 
 <sub>Spandan Shah • Founder, Aeronexus Aerospace</sub>
 
