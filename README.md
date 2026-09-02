@@ -1,8 +1,332 @@
-<!-- ========================================================= -->
-<!-- PROJECTS -->
-<!-- ========================================================= -->
+<!--
+======================================================================
+SPANDAN SHAH — PREMIUM GITHUB PROFILE README
+GitHub-native Markdown + HTML
+
+IMPORTANT PROJECT ASSETS
+
+assets/
+├── goblinwisp-cover.png
+├── goblinwisp-01.png
+├── goblinwisp-02.png
+├── goblinwisp-03.png
+├── aeronexus-command-center-cover.png
+├── aeronexus-01.png
+├── aeronexus-02.png
+├── aeronexus-03.png
+├── aeronexus-04.png
+├── aeronexus-05.png
+├── aeronexus-06.png
+├── vigilantedge-cover.png
+├── vigilantedge-01.png
+├── vigilantedge-02.png
+├── vigilantedge-03.png
+├── exotrace-cover.png
+├── exotrace-01.png
+├── exotrace-02.png
+├── exotrace-03.png
+├── examforge.png
+└── tinyml.png
+
+Recommended cover ratio:
+1600 × 900 or 1920 × 1080
+======================================================================
+-->
+
+
+<img
+  width="1983"
+  height="793"
+  alt="Spandan Shah — Founder, Aeronexus Aerospace"
+  src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2f40c"
+/>
+
 
 <br>
+
+
+<div align="center">
+
+# Spandan Shah
+
+### Founder, Aeronexus Aerospace • Computer Engineering • Cybersecurity
+
+**Building secure, intelligent and autonomous systems for real-world impact.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/spandan-shah0312/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Spandan-Shah">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Spandanshah">
+  <img src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:spandanshah10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+
+<br>
+
+---
+
+<!-- ================================================================ -->
+<!-- ABOUT -->
+<!-- ================================================================ -->
+
+
+<div align="center">
+
+## 📜 About Me
+
+### Founder • Engineer • Deep-Tech Builder
+
+<p>
+
+  <img src="https://img.shields.io/badge/AI-5B5FEF?style=for-the-badge&labelColor=0F172A" />
+
+  <img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge&labelColor=0F172A" />
+
+  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&labelColor=0F172A" />
+
+  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge&labelColor=0F172A" />
+
+  <img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge&labelColor=0F172A" />
+
+</p>
+
+</div>
+
+
+<br>
+
+
+<table width="100%">
+
+<tr>
+
+<td width="100%" valign="top">
+
+### ✨ Profile Summary
+
+I am a **Computer Engineering undergraduate** pursuing a **Minor in Cybersecurity**, with practical work across **AI, embedded systems, computer vision, backend engineering, secure communication and UAV technologies**.
+
+I am the **Founder of Aeronexus Aerospace**, where I work on secure, intelligent and autonomous systems including **mission-control software, embedded communication, AI-assisted situational awareness and infrastructure-constrained secure communication**.
+
+My work is driven by a simple idea: build systems that are not only technically interesting, but also **practical, scalable and impactful in the real world**.
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+<table width="100%">
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### 🚀 What I Build
+
+- AI-powered software systems
+- Computer vision and video-intelligence solutions
+- Embedded and wireless communication systems
+- Secure communication architectures
+- Backend APIs and operational platforms
+- UAV mission-control and intelligent monitoring tools
+
+<br>
+
+<img src="https://img.shields.io/badge/Mission_Control-2563EB?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Secure_Communication-7C3AED?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Embedded_Systems-059669?style=flat-square" />
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🧠 Engineering Mindset
+
+I strongly believe that real growth comes from **continuous learning, curiosity, experimentation and execution**.
+
+**Learn → Build → Test → Improve → Validate**
+
+Rather than staying limited to one technical area, I enjoy combining **software, AI, hardware and security** into complete systems.
+
+<br>
+
+<img src="https://img.shields.io/badge/Curiosity-8B5CF6?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Execution-EF4444?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Continuous_Learning-14B8A6?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Systems_Thinking-1D4ED8?style=flat-square" />
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+<table width="100%">
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### 🏢 Founder Perspective
+
+As the **Founder of Aeronexus Aerospace**, I focus on transforming ideas into meaningful engineering systems.
+
+My perspective combines:
+
+- technical depth
+- product thinking
+- problem-first execution
+- scalability mindset
+- practical innovation
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🌍 What Drives Me
+
+I am motivated by technology at the intersection of:
+
+- intelligence
+- security
+- autonomy
+- embedded engineering
+- aerospace and UAV systems
+
+I prefer solving **real operational problems** over building projects only for demonstration.
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+<div align="center">
+
+### 📌 Quick Snapshot
+
+
+<table>
+
+<tr>
+
+
+<td align="center" width="150">
+
+<h3>8+</h3>
+
+<b>Hackathons</b>
+
+</td>
+
+
+<td align="center" width="150">
+
+<h3>10+</h3>
+
+<b>Major Projects</b>
+
+</td>
+
+
+<td align="center" width="150">
+
+<h3>1</h3>
+
+<b>Patent Application</b>
+
+</td>
+
+
+<td align="center" width="150">
+
+<h3>∞</h3>
+
+<b>Learning & Building</b>
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+### ⚡ Current Focus
+
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-5B5FEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Embedded_Systems-14B8A6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/UAV_Systems-F59E0B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Secure_Systems-0F172A?style=for-the-badge" />
+
+
+<br><br>
+
+
+> ### “Let the work make the statement.”
+
+
+</div>
+
+
+<br>
+
+---
+
+<!-- ================================================================ -->
+<!-- PROJECTS -->
+<!-- ================================================================ -->
+
 
 <div align="center">
 
@@ -10,29 +334,39 @@
 
 ### Flagship Engineering Systems & Research
 
-<p>
-  <img src="https://img.shields.io/badge/Problem_First-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems_Engineering-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build_•_Validate_•_Improve-0891B2?style=for-the-badge" />
-</p>
 
-<sub>
-Real systems spanning secure communication, UAV software, AI,
-cybersecurity, computer vision and embedded engineering.
-</sub>
+<img src="https://img.shields.io/badge/Problem_First-111827?style=for-the-badge" />
 
-</div>
+<img src="https://img.shields.io/badge/Systems_Engineering-4F46E5?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Build_•_Validate_•_Improve-0891B2?style=for-the-badge" />
+
 
 <br><br>
 
 
-<!-- ========================================================= -->
-<!-- 01 / GOBLINWISP -->
-<!-- ========================================================= -->
+<sub>
+
+Secure Communication • UAV Software • AI • Cybersecurity • Computer Vision • Embedded Engineering
+
+</sub>
+
+
+</div>
+
+
+<br><br>
+
+<!-- ================================================================ -->
+<!-- GOBLINWISP -->
+<!-- ================================================================ -->
+
 
 <table width="100%">
 
+
 <tr>
+
 
 <td width="72%" valign="middle">
 
@@ -42,6 +376,7 @@ cybersecurity, computer vision and embedded engineering.
 
 </td>
 
+
 <td width="28%" align="right" valign="middle">
 
 <img
@@ -49,6 +384,7 @@ src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&
 />
 
 </td>
+
 
 </tr>
 
@@ -70,13 +406,14 @@ alt="GoblinWisp Secure Communication Prototype"
 
 <tr>
 
+
 <td width="50%" valign="top">
 
 ### ⚠️ The Problem
 
-Peer devices operating in remote or infrastructure-constrained environments may need secure communication without relying on cloud servers, cellular connectivity or centralized authentication infrastructure.
+Peer devices operating in remote or infrastructure-constrained environments may need secure communication without cloud servers, cellular connectivity or centralized authentication infrastructure.
 
-Poor session handling, replayed packets, unsafe reset behaviour and unrestricted bidirectional trust can weaken peer communication security.
+Poor session handling, replayed packets, unsafe reset behaviour and overly broad bidirectional trust can weaken peer communication security.
 
 </td>
 
@@ -85,16 +422,16 @@ Poor session handling, replayed packets, unsafe reset behaviour and unrestricted
 
 ### ⚙️ What I Built
 
-Built an **ESP32-based secure communication proof-of-concept over ESP-NOW** with a dedicated secure-session layer.
-
-The prototype implements **identity-bound sessions, authenticated encryption, independent direction-specific cryptographic state, replay handling and authenticated re-establishment**.
+Built an **ESP32-based proof-of-concept over ESP-NOW** with a dedicated secure-session layer implementing **identity-bound sessions, authenticated encryption, direction-specific cryptographic state, replay handling and authenticated re-establishment**.
 
 </td>
+
 
 </tr>
 
 
 <tr>
+
 
 <td width="50%" valign="top">
 
@@ -102,13 +439,13 @@ The prototype implements **identity-bound sessions, authenticated encryption, in
 
 **Directionally Isolated Security**
 
-Opposite communication directions maintain independent keys, counters, nonce state and authorization context.
+Independent security state is maintained for opposite communication directions.
 
 <br>
 
 **Transport Independence**
 
-ESP-NOW is used as the prototype transport while the secure-session architecture remains conceptually independent of the underlying wireless channel.
+ESP-NOW is used as the prototype transport while the secure-session design remains conceptually above the underlying wireless channel.
 
 </td>
 
@@ -117,21 +454,23 @@ ESP-NOW is used as the prototype transport while the secure-session architecture
 
 ### 📌 Project State
 
-**Timeline**  
+**Timeline:**  
 Dec 2025 — Aug 2026
 
-**Status**  
+**Status:**  
 Embedded Security Prototype
 
-**Role**  
+**Role:**  
 Lead Developer • Inventor
 
-**Domain**  
+**Domain:**  
 Embedded Security • Applied Cryptography • Secure Communication
 
 </td>
 
+
 </tr>
+
 
 </table>
 
@@ -141,33 +480,57 @@ Embedded Security • Applied Cryptography • Secure Communication
 
 <div align="center">
 
+
 ### ⚡ Core Stack
 
+
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
 <img src="https://img.shields.io/badge/ESP--NOW-334155?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
 <img src="https://img.shields.io/badge/X25519-0F766E?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/HKDF--SHA256-047857?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/AES--GCM-166534?style=for-the-badge" />
+
 
 <br><br>
 
-### 🧠 Engineering Skills
 
-<img src="https://img.shields.io/badge/Secure_Protocol_Design-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Applied_Cryptography-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Identity--Bound_Sessions-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Replay_Protection-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/Nonce_Management-E11D48?style=flat-square" />
-<img src="https://img.shields.io/badge/Counter_Management-B91C1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Session_State_Management-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Packet_Handling-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Message_Authentication-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Integrity_Verification-047857?style=flat-square" />
-<img src="https://img.shields.io/badge/Fault_Handling-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Real--Time_Debugging-64748B?style=flat-square" />
-<img src="https://img.shields.io/badge/Peer--to--Peer_Comms-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Wireless_Security-0369A1?style=flat-square" />
+### 🧠 Project Skills
+
+
+<kbd>Secure Protocol Design</kbd>
+
+<kbd>Applied Cryptography</kbd>
+
+<kbd>Identity-Bound Sessions</kbd>
+
+<kbd>Replay Protection</kbd>
+
+<kbd>Nonce Management</kbd>
+
+<kbd>Counter Management</kbd>
+
+<kbd>Session-State Management</kbd>
+
+<kbd>Packet Handling</kbd>
+
+<kbd>Message Authentication</kbd>
+
+<kbd>Integrity Verification</kbd>
+
+<kbd>Fault Handling</kbd>
+
+<kbd>Real-Time Debugging</kbd>
+
+<kbd>Peer-to-Peer Communication</kbd>
+
+<kbd>Wireless Security</kbd>
+
 
 </div>
 
@@ -177,29 +540,58 @@ Embedded Security • Applied Cryptography • Secure Communication
 
 <details>
 
-<summary><b>🖼️ Explore GoblinWisp Prototype Gallery</b></summary>
+<summary>
+
+<b>🖼️ Explore GoblinWisp Prototype Gallery</b>
+
+</summary>
+
 
 <br>
+
 
 <table width="100%">
 
 <tr>
 
-<td width="33%">
-<img src="./assets/goblinwisp-01.png" width="100%" alt="GoblinWisp Prototype View 1" />
-</td>
 
 <td width="33%">
-<img src="./assets/goblinwisp-02.png" width="100%" alt="GoblinWisp Prototype View 2" />
+
+<img
+src="./assets/goblinwisp-01.png"
+width="100%"
+alt="GoblinWisp View 1"
+/>
+
 </td>
+
+
+<td width="33%">
+
+<img
+src="./assets/goblinwisp-02.png"
+width="100%"
+alt="GoblinWisp View 2"
+/>
+
+</td>
+
 
 <td width="34%">
-<img src="./assets/goblinwisp-03.png" width="100%" alt="GoblinWisp Prototype View 3" />
+
+<img
+src="./assets/goblinwisp-03.png"
+width="100%"
+alt="GoblinWisp View 3"
+/>
+
 </td>
+
 
 </tr>
 
 </table>
+
 
 </details>
 
@@ -208,14 +600,16 @@ Embedded Security • Applied Cryptography • Secure Communication
 
 ---
 
-<!-- ========================================================= -->
-<!-- 02 / AERONEXUS COMMAND CENTER -->
-<!-- ========================================================= -->
+<!-- ================================================================ -->
+<!-- AERONEXUS COMMAND CENTER -->
+<!-- ================================================================ -->
 
 
 <table width="100%">
 
+
 <tr>
+
 
 <td width="72%" valign="middle">
 
@@ -225,6 +619,7 @@ Embedded Security • Applied Cryptography • Secure Communication
 
 </td>
 
+
 <td width="28%" align="right" valign="middle">
 
 <img
@@ -232,6 +627,7 @@ src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&
 />
 
 </td>
+
 
 </tr>
 
@@ -243,7 +639,7 @@ src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&
 <img
 src="./assets/aeronexus-command-center-cover.png"
 width="100%"
-alt="Aeronexus Command Center Dashboard"
+alt="Aeronexus Command Center"
 />
 
 </td>
@@ -253,13 +649,14 @@ alt="Aeronexus Command Center Dashboard"
 
 <tr>
 
+
 <td width="50%" valign="top">
 
 ### ⚠️ The Problem
 
-UAV missions commonly distribute telemetry, mission mapping, aircraft health, battery state, operational zones, alerts and event logs across disconnected interfaces.
+UAV missions often distribute telemetry, mission mapping, aircraft health, battery state, operational zones, alerts and event logs across disconnected interfaces.
 
-This fragmentation increases operator workload and makes it harder to maintain a unified operational picture during time-sensitive missions.
+This fragmentation increases operator workload and weakens the single operational picture needed during time-sensitive missions.
 
 </td>
 
@@ -270,14 +667,16 @@ This fragmentation increases operator workload and makes it harder to maintain a
 
 Developed a **unified mission-control platform** combining UAV telemetry, route visualization, mission mapping, geofencing, operational zones, aircraft health, battery monitoring, alerts, fleet status and operator controls.
 
-The platform provides a modular software foundation for future **computer vision, onboard sensing, security events and multi-UAV services**.
+The architecture provides a modular software foundation for future **computer vision, onboard sensing, security events and multi-UAV services**.
 
 </td>
+
 
 </tr>
 
 
 <tr>
+
 
 <td width="50%" valign="top">
 
@@ -285,13 +684,13 @@ The platform provides a modular software foundation for future **computer vision
 
 **Unified Operational Awareness**
 
-Telemetry, mission context, aircraft state and operational intelligence are consolidated into a single operator-oriented interface.
+Mission information is consolidated into one operator-oriented interface.
 
 <br>
 
 **Modular Backend Architecture**
 
-FastAPI-based services support telemetry ingestion, processing, persistence and communication between UAV-related system components.
+FastAPI services support telemetry ingestion, processing, persistence and communication between system components.
 
 </td>
 
@@ -300,21 +699,23 @@ FastAPI-based services support telemetry ingestion, processing, persistence and 
 
 ### 📌 Project State
 
-**Timeline**  
+**Timeline:**  
 Jul 2026 — Present
 
-**Status**  
+**Status:**  
 Active Development • Software PoC
 
-**Role**  
+**Role:**  
 Founder • Lead Developer
 
-**Domain**  
+**Domain:**  
 UAV Systems • Mission Control • Backend Engineering
 
 </td>
 
+
 </tr>
+
 
 </table>
 
@@ -324,36 +725,63 @@ UAV Systems • Mission Control • Backend Engineering
 
 <div align="center">
 
+
 ### ⚡ Core Stack
 
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
 <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" />
+
 
 <br><br>
 
-### 🛰️ UAV & Systems Skills
 
-<img src="https://img.shields.io/badge/UAV_Telemetry-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Telemetry_Ingestion-0369A1?style=flat-square" />
-<img src="https://img.shields.io/badge/Mission_Control-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Mission_Mapping-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Route_Visualization-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Geofencing-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Operational_Zones-0E7490?style=flat-square" />
-<img src="https://img.shields.io/badge/Fleet_Monitoring-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Aircraft_Health-16A34A?style=flat-square" />
-<img src="https://img.shields.io/badge/Battery_Monitoring-65A30D?style=flat-square" />
-<img src="https://img.shields.io/badge/Situational_Awareness-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Event_&_Alert_Handling-EA580C?style=flat-square" />
-<img src="https://img.shields.io/badge/Operational_Logs-64748B?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend_Architecture-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Modular_System_Design-475569?style=flat-square" />
+### 🛰️ Project Skills
+
+
+<kbd>UAV Telemetry</kbd>
+
+<kbd>Telemetry Ingestion</kbd>
+
+<kbd>Mission Control</kbd>
+
+<kbd>Mission Mapping</kbd>
+
+<kbd>Route Visualization</kbd>
+
+<kbd>Geofencing</kbd>
+
+<kbd>Operational Zones</kbd>
+
+<kbd>Fleet Monitoring</kbd>
+
+<kbd>Aircraft Health</kbd>
+
+<kbd>Battery Monitoring</kbd>
+
+<kbd>Situational Awareness</kbd>
+
+<kbd>Alert Handling</kbd>
+
+<kbd>Operational Logs</kbd>
+
+<kbd>Backend Architecture</kbd>
+
+<kbd>Modular System Design</kbd>
+
 
 </div>
 
@@ -363,45 +791,99 @@ UAV Systems • Mission Control • Backend Engineering
 
 <details>
 
-<summary><b>🖼️ Explore Command Center Interface Gallery</b></summary>
+<summary>
+
+<b>🖼️ Explore Command Center Interface Gallery</b>
+
+</summary>
+
 
 <br>
 
+
 <table width="100%">
 
-<tr>
-
-<td width="33%">
-<img src="./assets/aeronexus-01.png" width="100%" alt="Aeronexus Interface 1" />
-</td>
-
-<td width="33%">
-<img src="./assets/aeronexus-02.png" width="100%" alt="Aeronexus Interface 2" />
-</td>
-
-<td width="34%">
-<img src="./assets/aeronexus-03.png" width="100%" alt="Aeronexus Interface 3" />
-</td>
-
-</tr>
 
 <tr>
 
-<td width="33%">
-<img src="./assets/aeronexus-04.png" width="100%" alt="Aeronexus Interface 4" />
-</td>
 
 <td width="33%">
-<img src="./assets/aeronexus-05.png" width="100%" alt="Aeronexus Interface 5" />
+
+<img
+src="./assets/aeronexus-01.png"
+width="100%"
+alt="Aeronexus View 1"
+/>
+
 </td>
+
+
+<td width="33%">
+
+<img
+src="./assets/aeronexus-02.png"
+width="100%"
+alt="Aeronexus View 2"
+/>
+
+</td>
+
 
 <td width="34%">
-<img src="./assets/aeronexus-06.png" width="100%" alt="Aeronexus Interface 6" />
+
+<img
+src="./assets/aeronexus-03.png"
+width="100%"
+alt="Aeronexus View 3"
+/>
+
 </td>
 
+
 </tr>
+
+
+<tr>
+
+
+<td width="33%">
+
+<img
+src="./assets/aeronexus-04.png"
+width="100%"
+alt="Aeronexus View 4"
+/>
+
+</td>
+
+
+<td width="33%">
+
+<img
+src="./assets/aeronexus-05.png"
+width="100%"
+alt="Aeronexus View 5"
+/>
+
+</td>
+
+
+<td width="34%">
+
+<img
+src="./assets/aeronexus-06.png"
+width="100%"
+alt="Aeronexus View 6"
+/>
+
+</td>
+
+
+</tr>
+
 
 </table>
+
 
 </details>
 
@@ -410,14 +892,16 @@ UAV Systems • Mission Control • Backend Engineering
 
 ---
 
-<!-- ========================================================= -->
-<!-- 03 / VIGILANTEDGE -->
-<!-- ========================================================= -->
+<!-- ================================================================ -->
+<!-- VIGILANTEDGE -->
+<!-- ================================================================ -->
 
 
 <table width="100%">
 
+
 <tr>
+
 
 <td width="72%" valign="middle">
 
@@ -427,6 +911,7 @@ UAV Systems • Mission Control • Backend Engineering
 
 </td>
 
+
 <td width="28%" align="right" valign="middle">
 
 <img
@@ -434,6 +919,7 @@ src="https://img.shields.io/badge/Repository-PRIVATE-111827?style=for-the-badge&
 />
 
 </td>
+
 
 </tr>
 
@@ -455,13 +941,14 @@ alt="VigilantEdge Cybersecurity Platform"
 
 <tr>
 
+
 <td width="50%" valign="top">
 
 ### ⚠️ The Problem
 
-Traditional Web Application Firewalls depend heavily on static signatures and manually configured security policies.
+Traditional Web Application Firewalls rely heavily on static signatures and manually configured security policies.
 
-They can struggle with application-specific anomalies, modified attack behaviour, API abuse and security decisions that require contextual understanding.
+They can struggle with application-specific anomalies, modified attack behaviour, API abuse and defensive decisions requiring contextual understanding.
 
 </td>
 
@@ -472,14 +959,16 @@ They can struggle with application-specific anomalies, modified attack behaviour
 
 Designed a staged adaptive defensive architecture combining **reverse-proxy controls, request validation, behavioural analysis, ML-assisted anomaly detection, contextual risk scoring, explainability and policy-controlled remediation**.
 
-Long-term research capabilities are intentionally separated from functionality that has already been implemented or validated.
+Long-term research capabilities remain clearly separated from functionality already implemented or validated.
 
 </td>
+
 
 </tr>
 
 
 <tr>
+
 
 <td width="50%" valign="top">
 
@@ -487,13 +976,13 @@ Long-term research capabilities are intentionally separated from functionality t
 
 **Adaptive Detection**
 
-Combines conventional defensive controls with behavioural and ML-assisted analysis instead of relying entirely on predefined rules.
+Conventional controls are combined with behavioural analysis and ML-assisted anomaly detection.
 
 <br>
 
-**Explainable Security Decisions**
+**Explainability**
 
-Explores interpretable risk scoring and explainability so AI-assisted defensive decisions remain reviewable.
+The architecture explores interpretable risk scoring for reviewable AI-assisted security decisions.
 
 </td>
 
@@ -502,21 +991,23 @@ Explores interpretable risk scoring and explainability so AI-assisted defensive 
 
 ### 📌 Project State
 
-**Timeline**  
+**Timeline:**  
 Jan 2026 — Present
 
-**Status**  
+**Status:**  
 Architecture Defined • Staged R&D
 
-**Role**  
+**Role:**  
 Lead Developer • Researcher
 
-**Domain**  
+**Domain:**  
 AI • Cybersecurity • Backend Systems
 
 </td>
 
+
 </tr>
+
 
 </table>
 
@@ -526,47 +1017,82 @@ AI • Cybersecurity • Backend Systems
 
 <div align="center">
 
+
 ### ⚡ Core Stack
 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+
 <br><br>
+
 
 ### 🛡️ Security Engineering
 
-<img src="https://img.shields.io/badge/Web_Application_Security-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/API_Security-E11D48?style=flat-square" />
-<img src="https://img.shields.io/badge/Behavioural_Analysis-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/Anomaly_Detection-9D174D?style=flat-square" />
-<img src="https://img.shields.io/badge/Risk_Scoring-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Explainable_AI-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat_Intelligence-B91C1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat_Hunting-991B1B?style=flat-square" />
-<img src="https://img.shields.io/badge/Zero_Trust-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Policy--Driven_Response-2563EB?style=flat-square" />
+
+<kbd>Web Application Security</kbd>
+
+<kbd>API Security</kbd>
+
+<kbd>Behavioural Analysis</kbd>
+
+<kbd>Anomaly Detection</kbd>
+
+<kbd>Risk Scoring</kbd>
+
+<kbd>Explainable AI</kbd>
+
+<kbd>Threat Intelligence</kbd>
+
+<kbd>Threat Hunting</kbd>
+
+<kbd>Zero Trust</kbd>
+
+<kbd>Policy-Driven Response</kbd>
+
 
 <br><br>
 
+
 ### 🔬 Research Areas
 
-<img src="https://img.shields.io/badge/Self--Healing_Security-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Cyber_Deception-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/SOC_Automation-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Adversarial_AI-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Federated_Learning-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Red_Teaming-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/Cyber_Resilience-EA580C?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT_&_5G_Security-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Post--Quantum_Concepts-475569?style=flat-square" />
+
+<kbd>Self-Healing Security</kbd>
+
+<kbd>Cyber Deception</kbd>
+
+<kbd>SOC Automation</kbd>
+
+<kbd>Adversarial AI</kbd>
+
+<kbd>Federated Learning</kbd>
+
+<kbd>Red Teaming</kbd>
+
+<kbd>Cyber Resilience</kbd>
+
+<kbd>IoT & 5G Security</kbd>
+
+<kbd>Post-Quantum Concepts</kbd>
+
 
 </div>
 
@@ -576,29 +1102,58 @@ AI • Cybersecurity • Backend Systems
 
 <details>
 
-<summary><b>🖼️ Explore VigilantEdge Architecture & Interface Gallery</b></summary>
+<summary>
+
+<b>🖼️ Explore VigilantEdge Architecture & Interface Gallery</b>
+
+</summary>
+
 
 <br>
+
 
 <table width="100%">
 
 <tr>
 
-<td width="33%">
-<img src="./assets/vigilantedge-01.png" width="100%" alt="VigilantEdge View 1" />
-</td>
 
 <td width="33%">
-<img src="./assets/vigilantedge-02.png" width="100%" alt="VigilantEdge View 2" />
+
+<img
+src="./assets/vigilantedge-01.png"
+width="100%"
+alt="VigilantEdge View 1"
+/>
+
 </td>
+
+
+<td width="33%">
+
+<img
+src="./assets/vigilantedge-02.png"
+width="100%"
+alt="VigilantEdge View 2"
+/>
+
+</td>
+
 
 <td width="34%">
-<img src="./assets/vigilantedge-03.png" width="100%" alt="VigilantEdge View 3" />
+
+<img
+src="./assets/vigilantedge-03.png"
+width="100%"
+alt="VigilantEdge View 3"
+/>
+
 </td>
+
 
 </tr>
 
 </table>
+
 
 </details>
 
@@ -607,14 +1162,16 @@ AI • Cybersecurity • Backend Systems
 
 ---
 
-<!-- ========================================================= -->
-<!-- 04 / EXOTRACE -->
-<!-- ========================================================= -->
+<!-- ================================================================ -->
+<!-- EXOTRACE -->
+<!-- ================================================================ -->
 
 
 <table width="100%">
 
+
 <tr>
+
 
 <td width="72%" valign="middle">
 
@@ -624,6 +1181,7 @@ AI • Cybersecurity • Backend Systems
 
 </td>
 
+
 <td width="28%" align="right" valign="middle">
 
 <img
@@ -631,6 +1189,7 @@ src="https://img.shields.io/badge/Research-Prototype-6D28D9?style=for-the-badge"
 />
 
 </td>
+
 
 </tr>
 
@@ -642,7 +1201,7 @@ src="https://img.shields.io/badge/Research-Prototype-6D28D9?style=for-the-badge"
 <img
 src="./assets/exotrace-cover.png"
 width="100%"
-alt="ExoTrace Exoplanet Research Prototype"
+alt="ExoTrace Research Prototype"
 />
 
 </td>
@@ -652,13 +1211,14 @@ alt="ExoTrace Exoplanet Research Prototype"
 
 <tr>
 
+
 <td width="50%" valign="top">
 
 ### ⚠️ The Problem
 
 Astronomical light curves contain noise, stellar variability and false-positive patterns that can resemble genuine planetary transit signals.
 
-Candidate screening therefore requires both signal processing and careful machine-learning classification.
+Candidate screening therefore requires both signal-processing and careful machine-learning classification.
 
 </td>
 
@@ -667,28 +1227,30 @@ Candidate screening therefore requires both signal processing and careful machin
 
 ### ⚙️ What I Built
 
-Built a scientific ML pipeline that processes **TESS light curves**, applies **Box Least Squares**, extracts transit-related features and uses an **ExtraTrees classifier** for candidate prioritization.
+Built a scientific machine-learning pipeline that processes **TESS light curves**, applies **Box Least Squares**, extracts transit-related features and uses an **ExtraTrees classifier** for candidate prioritization.
 
-The system is positioned as an AI-assisted screening tool rather than a final astronomical confirmation system.
+The system is positioned as a candidate-screening system rather than a final astronomical confirmation system.
 
 </td>
+
 
 </tr>
 
 
 <tr>
 
+
 <td width="50%" valign="top">
 
 ### 📊 Validation Snapshot
 
-**Held-out Accuracy**  
+**Held-out Accuracy:**  
 78%
 
-**Macro F1**  
+**Macro F1:**  
 77%
 
-**Candidate Recall at Screening Threshold**  
+**Candidate Recall at Screening Threshold:**  
 98%
 
 </td>
@@ -698,18 +1260,20 @@ The system is positioned as an AI-assisted screening tool rather than a final as
 
 ### 📌 Project State
 
-**Timeline**  
+**Timeline:**  
 2026
 
-**Status**  
+**Status:**  
 Functional Research Prototype
 
-**Domain**  
+**Domain:**  
 Scientific ML • Astronomy • Time-Series Analysis
 
 </td>
 
+
 </tr>
+
 
 </table>
 
@@ -719,29 +1283,49 @@ Scientific ML • Astronomy • Time-Series Analysis
 
 <div align="center">
 
+
 ### ⚡ Core Stack
 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 <img src="https://img.shields.io/badge/ExtraTrees-6366F1?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 
 <br><br>
 
-### 🔭 Scientific & ML Skills
 
-<img src="https://img.shields.io/badge/TESS_Light_Curves-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Box_Least_Squares-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Time--Series_Analysis-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Signal_Processing-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Feature_Engineering-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Classification-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Model_Evaluation-16A34A?style=flat-square" />
-<img src="https://img.shields.io/badge/Precision_&_Recall-EA580C?style=flat-square" />
-<img src="https://img.shields.io/badge/Candidate_Prioritization-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/Scientific_Machine_Learning-6D28D9?style=flat-square" />
+### 🔭 Project Skills
+
+
+<kbd>TESS Light Curves</kbd>
+
+<kbd>Box Least Squares</kbd>
+
+<kbd>Time-Series Analysis</kbd>
+
+<kbd>Signal Processing</kbd>
+
+<kbd>Feature Engineering</kbd>
+
+<kbd>Classification</kbd>
+
+<kbd>Model Evaluation</kbd>
+
+<kbd>Precision & Recall</kbd>
+
+<kbd>Candidate Prioritization</kbd>
+
+<kbd>Scientific Machine Learning</kbd>
+
 
 </div>
 
@@ -751,29 +1335,58 @@ Scientific ML • Astronomy • Time-Series Analysis
 
 <details>
 
-<summary><b>🖼️ Explore ExoTrace Research Gallery</b></summary>
+<summary>
+
+<b>🖼️ Explore ExoTrace Research Gallery</b>
+
+</summary>
+
 
 <br>
+
 
 <table width="100%">
 
 <tr>
 
-<td width="33%">
-<img src="./assets/exotrace-01.png" width="100%" alt="ExoTrace View 1" />
-</td>
 
 <td width="33%">
-<img src="./assets/exotrace-02.png" width="100%" alt="ExoTrace View 2" />
+
+<img
+src="./assets/exotrace-01.png"
+width="100%"
+alt="ExoTrace View 1"
+/>
+
 </td>
+
+
+<td width="33%">
+
+<img
+src="./assets/exotrace-02.png"
+width="100%"
+alt="ExoTrace View 2"
+/>
+
+</td>
+
 
 <td width="34%">
-<img src="./assets/exotrace-03.png" width="100%" alt="ExoTrace View 3" />
+
+<img
+src="./assets/exotrace-03.png"
+width="100%"
+alt="ExoTrace View 3"
+/>
+
 </td>
+
 
 </tr>
 
 </table>
+
 
 </details>
 
@@ -782,9 +1395,9 @@ Scientific ML • Astronomy • Time-Series Analysis
 
 ---
 
-<!-- ========================================================= -->
+<!-- ================================================================ -->
 <!-- MORE ENGINEERING WORK -->
-<!-- ========================================================= -->
+<!-- ================================================================ -->
 
 
 <div align="center">
@@ -792,11 +1405,13 @@ Scientific ML • Astronomy • Time-Series Analysis
 ## 🧪 More Engineering Work
 
 <sub>
-Additional projects across Generative AI, computer vision,
-threat intelligence, automation and embedded security.
+
+Generative AI • Embedded Vision • Computer Vision • Threat Intelligence • Wireless Security • Automation
+
 </sub>
 
 </div>
+
 
 <br>
 
@@ -806,79 +1421,106 @@ threat intelligence, automation and embedded security.
 <tr>
 
 
-<!-- EXAMFORGE -->
 <td width="50%" valign="top">
 
 ### 📄 ExamForge AI
 
 **Generative Assessment & Question Paper Builder**
 
-Generative-AI assessment tool developed for configurable academic practice and GTU-oriented question generation.
+A Generative-AI academic assessment system that converts subject, topic, difficulty, question type and marks-distribution inputs into structured prompts and formatted practice material.
 
 <br>
 
-**Core Stack**
+**Stack**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+<kbd>Node.js</kbd>
+
+<kbd>Express.js</kbd>
+
+<kbd>JavaScript</kbd>
+
+<kbd>Gemini API</kbd>
+
+<kbd>REST APIs</kbd>
+
+<kbd>Postman</kbd>
+
 
 <br><br>
+
 
 **Skills**
 
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Integration-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/API_Integration-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Input_Validation-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Environment_Variables-475569?style=flat-square" />
+<kbd>Generative AI</kbd>
+
+<kbd>Prompt Engineering</kbd>
+
+<kbd>AI Integration</kbd>
+
+<kbd>API Integration</kbd>
+
+<kbd>Input Validation</kbd>
+
+<kbd>Environment Variables</kbd>
+
 
 <br><br>
 
+
 [![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/Question-Paper-Generator)
+
 
 </td>
 
 
-<!-- TINYML -->
 <td width="50%" valign="top">
 
 ### 📷 TinyML — ESP32-CAM Vision
 
 **Embedded Camera Streaming & Object Detection**
 
-Embedded vision experiment that streams ESP32-CAM frames to a receiver-side detection pipeline.
+Embedded vision experiment that streams ESP32-CAM frames to a receiver-side detection pipeline with stability-first frame handling.
 
 <br>
 
-**Core Stack**
 
-<img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/UDP-2563EB?style=flat-square" />
+**Stack**
+
+<kbd>ESP32-CAM</kbd>
+
+<kbd>Python</kbd>
+
+<kbd>UDP</kbd>
+
+<kbd>Computer Vision</kbd>
+
 
 <br><br>
+
 
 **Skills**
 
-<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Object_Detection-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Image_Streaming-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/UDP_Streaming-0369A1?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded_Vision-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/Frame_Dropping-EA580C?style=flat-square" />
-<img src="https://img.shields.io/badge/Low--Latency_Processing-F59E0B?style=flat-square" />
+<kbd>Object Detection</kbd>
+
+<kbd>Image Streaming</kbd>
+
+<kbd>UDP Streaming</kbd>
+
+<kbd>Embedded Vision</kbd>
+
+<kbd>Frame Dropping</kbd>
+
+<kbd>Low-Latency Processing</kbd>
+
 
 <br><br>
 
+
 [![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam)
 
+
 </td>
+
 
 </tr>
 
@@ -888,12 +1530,8 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 <br>
 
 
-<!-- ========================================================= -->
-<!-- ADDITIONAL PROJECT BENTO GRID -->
-<!-- ========================================================= -->
-
-
 <table width="100%">
+
 
 <tr>
 
@@ -904,19 +1542,23 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **Intelligent Traffic Vision**
 
-<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/DeepSORT-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/OCR-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+<kbd>YOLO</kbd>
 
-<br><br>
+<kbd>DeepSORT</kbd>
 
-`Vehicle Detection`  
-`Object Tracking`  
-`License Plate OCR`  
-`Speed Estimation`  
-`Trajectory Analysis`  
-`Traffic Analytics`
+<kbd>OCR</kbd>
+
+<kbd>OpenCV</kbd>
+
+<kbd>Vehicle Detection</kbd>
+
+<kbd>Object Tracking</kbd>
+
+<kbd>Speed Estimation</kbd>
+
+<kbd>Trajectory Analysis</kbd>
+
+<kbd>Traffic Analytics</kbd>
 
 </td>
 
@@ -927,19 +1569,25 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **AI Situational Awareness**
 
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/RTSP-2563EB?style=flat-square" />
+<kbd>YOLOv8</kbd>
 
-<br><br>
+<kbd>EfficientDet</kbd>
 
-`Object Detection`  
-`Video Analytics`  
-`Pose / Gesture Analysis`  
-`Anomaly Detection`  
-`Crowd Analysis`  
-`Real-Time Monitoring`
+<kbd>DETR</kbd>
+
+<kbd>OpenPose</kbd>
+
+<kbd>PoseNet</kbd>
+
+<kbd>OpenCV</kbd>
+
+<kbd>RTSP</kbd>
+
+<kbd>Anomaly Detection</kbd>
+
+<kbd>Video Analytics</kbd>
+
+<kbd>Crowd Analysis</kbd>
 
 </td>
 
@@ -950,21 +1598,28 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **Multimodal Threat Intelligence**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
-<img src="https://img.shields.io/badge/OSINT-DB2777?style=flat-square" />
+<kbd>Python</kbd>
 
-<br><br>
+<kbd>NLP</kbd>
 
-`Threat Intelligence`  
-`Network Analysis`  
-`Scrapy`  
-`BeautifulSoup`  
-`GeoPandas`  
-`Responsible AI`
+<kbd>OpenCV</kbd>
+
+<kbd>OSINT</kbd>
+
+<kbd>Scrapy</kbd>
+
+<kbd>BeautifulSoup</kbd>
+
+<kbd>GeoPandas</kbd>
+
+<kbd>Network Analysis</kbd>
+
+<kbd>Threat Intelligence</kbd>
+
+<kbd>Responsible AI</kbd>
 
 </td>
+
 
 </tr>
 
@@ -978,18 +1633,21 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **Wireless Security Testbed**
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
-<img src="https://img.shields.io/badge/NRF24L01-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/SPI-334155?style=flat-square" />
+<kbd>ESP32</kbd>
 
-<br><br>
+<kbd>NRF24L01</kbd>
 
-`RF Communication`  
-`Wireless Security`  
-`Packet Analysis`  
-`RF Interference Testing`  
-`SPI Interfacing`  
-`Embedded Debugging`
+<kbd>SPI</kbd>
+
+<kbd>RF Communication</kbd>
+
+<kbd>Wireless Security</kbd>
+
+<kbd>Packet Analysis</kbd>
+
+<kbd>RF Interference Testing</kbd>
+
+<kbd>Embedded Debugging</kbd>
 
 </td>
 
@@ -1000,17 +1658,19 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **Workflow Automation**
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square" />
+<kbd>n8n</kbd>
 
-<br><br>
+<kbd>Webhooks</kbd>
 
-`Workflow Automation`  
-`Webhook Processing`  
-`API & Data Integration`  
-`Input Validation`  
-`Event-Driven Workflows`  
-`Participant Data Processing`
+<kbd>API Integration</kbd>
+
+<kbd>Data Integration</kbd>
+
+<kbd>Input Validation</kbd>
+
+<kbd>Event-Driven Workflows</kbd>
+
+<kbd>Participant Data Processing</kbd>
 
 </td>
 
@@ -1021,21 +1681,618 @@ Embedded vision experiment that streams ESP32-CAM frames to a receiver-side dete
 
 **Technology & Innovation Community**
 
-<img src="https://img.shields.io/badge/Leadership-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Community-4F46E5?style=flat-square" />
+<kbd>Leadership</kbd>
 
-<br><br>
+<kbd>Team Building</kbd>
 
-`Team Building`  
-`Hackathon Collaboration`  
-`Technical Coordination`  
-`Community Management`  
-`Peer Learning`
+<kbd>Hackathon Collaboration</kbd>
+
+<kbd>Technical Coordination</kbd>
+
+<kbd>Community Management</kbd>
+
+<kbd>Peer Learning</kbd>
 
 </td>
 
+
 </tr>
+
 
 </table>
 
+
 <br>
+
+---
+
+<!-- ================================================================ -->
+<!-- COMPLETE TECHNICAL SKILLS -->
+<!-- ================================================================ -->
+
+
+<div align="center">
+
+## 🧩 Technical Skills
+
+### Complete Multi-Domain Engineering Skill Inventory
+
+
+<img src="https://img.shields.io/badge/Software-111827?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI_&_ML-5B5FEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Embedded_&_Wireless-14B8A6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloud_&_Automation-F59E0B?style=for-the-badge" />
+
+
+<br><br>
+
+
+<sub>
+
+Grouped below into GitHub-native skill cards.
+
+</sub>
+
+
+</div>
+
+
+<br>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### ⚡ Automation, APIs & Backend
+
+
+<kbd>n8n</kbd>
+
+<kbd>Webhooks</kbd>
+
+<kbd>API and Data Integration</kbd>
+
+<kbd>Postman API</kbd>
+
+<kbd>REST APIs</kbd>
+
+<kbd>Google Safe Browsing API</kbd>
+
+<kbd>Flask-CORS</kbd>
+
+<kbd>Node.js</kbd>
+
+<kbd>Express.js</kbd>
+
+<kbd>Flask</kbd>
+
+<kbd>MySQL</kbd>
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🎨 Web, Frontend & Product
+
+
+<kbd>Vanilla JavaScript</kbd>
+
+<kbd>Manifest V3 Structure</kbd>
+
+<kbd>Next.js</kbd>
+
+<kbd>React Native</kbd>
+
+<kbd>Tailwind CSS</kbd>
+
+<kbd>WebSocket</kbd>
+
+<kbd>Socket.io</kbd>
+
+<kbd>JavaScript</kbd>
+
+<kbd>UI/UX Design</kbd>
+
+<kbd>Java</kbd>
+
+<kbd>CSS</kbd>
+
+<kbd>HTML</kbd>
+
+<kbd>Video Editing</kbd>
+
+<kbd>Problem Solving</kbd>
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### 🧠 AI, ML, NLP & Data
+
+
+<kbd>Generative AI</kbd>
+
+<kbd>Prompt Engineering</kbd>
+
+<kbd>AI Integration</kbd>
+
+<kbd>Natural Language Processing (NLP)</kbd>
+
+<kbd>Artificial Intelligence (AI)</kbd>
+
+<kbd>Python (Programming Language)</kbd>
+
+<kbd>Machine Learning</kbd>
+
+<kbd>TensorFlow</kbd>
+
+<kbd>Scikit-Learn</kbd>
+
+<kbd>DASH</kbd>
+
+<kbd>Plotly</kbd>
+
+<kbd>Pandas</kbd>
+
+<kbd>NumPy</kbd>
+
+<kbd>PyTorch</kbd>
+
+<kbd>Keras</kbd>
+
+<kbd>NLTK</kbd>
+
+<kbd>spaCy</kbd>
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision & Real-Time Perception
+
+
+<kbd>YOLOv8</kbd>
+
+<kbd>EfficientDet</kbd>
+
+<kbd>DETR</kbd>
+
+<kbd>OpenPose</kbd>
+
+<kbd>One-Class SVM</kbd>
+
+<kbd>Isolation Forest</kbd>
+
+<kbd>Autoencoders</kbd>
+
+<kbd>K-Means Clustering</kbd>
+
+<kbd>DBSCAN</kbd>
+
+<kbd>Real Time Streaming Protocol (RTSP)</kbd>
+
+<kbd>PoseNet</kbd>
+
+<kbd>OpenCV</kbd>
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity & Adaptive Defense
+
+
+<kbd>AI & Machine Learning for Cybersecurity</kbd>
+
+<kbd>Penetration Testing & Red Teaming</kbd>
+
+<kbd>Threat Intelligence & Attribution</kbd>
+
+<kbd>Federated Learning & Decentralized Security</kbd>
+
+<kbd>Zero Trust Security (ZTA)</kbd>
+
+<kbd>Dark Web & Social Engineering Detection</kbd>
+
+<kbd>Self-Healing & Adaptive Security</kbd>
+
+<kbd>Post-Quantum Cryptography</kbd>
+
+<kbd>Cyber Deception & Ransomware Defense</kbd>
+
+<kbd>Security Operations Center (SOC) Automation</kbd>
+
+<kbd>Cyber Risk Forecasting & Predictive Analytics</kbd>
+
+<kbd>Blockchain for Cybersecurity</kbd>
+
+<kbd>5G & IoT Security</kbd>
+
+<kbd>Gamification in Cybersecurity Training</kbd>
+
+<kbd>Cybersecurity Compliance & Governance</kbd>
+
+<kbd>Adversarial AI & Cyber Resilience</kbd>
+
+<kbd>Full-Scale Autonomous Cyber Defense</kbd>
+
+<kbd>Reid Technique of Interviewing & Interrogation</kbd>
+
+<kbd>CryptoJS</kbd>
+
+<kbd>GnuPG</kbd>
+
+<kbd>OpenSSL</kbd>
+
+<kbd>Backdoor Analysis</kbd>
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 📡 Embedded, Wireless & Edge
+
+
+<kbd>ESP32 Microcontrollers</kbd>
+
+<kbd>Wireless Packet Spoofing — Controlled Lab</kbd>
+
+<kbd>RF Communication / Interference Testing</kbd>
+
+<kbd>SPI Interfacing</kbd>
+
+<kbd>Real-Time RF Scanning & Signal-Jamming Research</kbd>
+
+<kbd>Ethical Hacking for Wireless Protocols</kbd>
+
+<kbd>Raspberry Pi</kbd>
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud, Messaging & Distributed Systems
+
+
+<kbd>Amazon Web Services (AWS)</kbd>
+
+<kbd>Redis</kbd>
+
+<kbd>Kafka</kbd>
+
+<kbd>Twilio</kbd>
+
+<kbd>Firebase Cloud Messaging</kbd>
+
+<kbd>AWS Lambda</kbd>
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🗺️ Data, Scraping & Geospatial
+
+
+<kbd>Scrapy Framework</kbd>
+
+<kbd>Beautiful Soup</kbd>
+
+<kbd>Requests</kbd>
+
+<kbd>GeoPandas</kbd>
+
+<kbd>Web Scraping</kbd>
+
+<kbd>Data Extraction</kbd>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+---
+
+<!-- ================================================================ -->
+<!-- PATENT -->
+<!-- ================================================================ -->
+
+
+<div align="center">
+
+## 📑 Patent & Research
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td width="70%" valign="top">
+
+### Directionally-Isolated Identity-Bound Secure Session Architecture for Infrastructure-Free Peer Communication Systems
+
+**Indian Patent Application — Pending**
+
+Research focus includes:
+
+- identity-bound secure sessions
+- direction-specific cryptographic state
+- authenticated encryption
+- replay-resistant sequencing
+- reset-safe invalidation
+- authenticated session re-establishment
+- infrastructure-independent peer communication
+
+> Selected implementation and claim-level details are intentionally abstracted while the patent application remains pending.
+
+</td>
+
+
+<td width="30%" valign="top" align="center">
+
+### Focus Areas
+
+
+<kbd>Secure Sessions</kbd>
+
+
+<br><br>
+
+
+<kbd>Applied Cryptography</kbd>
+
+
+<br><br>
+
+
+<kbd>Embedded Security</kbd>
+
+
+<br><br>
+
+
+<kbd>Infrastructure-Free Communication</kbd>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+---
+
+<!-- ================================================================ -->
+<!-- LEADERSHIP -->
+<!-- ================================================================ -->
+
+
+<div align="center">
+
+## 🧭 Leadership & Experience
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td width="22%" valign="top">
+
+<b>2026 — Present</b>
+
+</td>
+
+
+<td width="78%" valign="top">
+
+### Founder — Aeronexus Aerospace
+
+Working on secure, intelligent and autonomous UAV systems, mission software, embedded communication and deep-tech R&D.
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="22%" valign="top">
+
+<b>Present</b>
+
+</td>
+
+
+<td width="78%" valign="top">
+
+### Founder — Blackout Community
+
+Student technology and hackathon community focused on collaborative development, experimentation and peer learning.
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="22%" valign="top">
+
+<b>2025</b>
+
+</td>
+
+
+<td width="78%" valign="top">
+
+### Student Coordinator — Smart India Hackathon
+
+Coordinated the institute-level internal selection round involving **20+ teams**, faculty members, mentors and evaluators.
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="22%" valign="top">
+
+<b>2024 — Present</b>
+
+</td>
+
+
+<td width="78%" valign="top">
+
+### Hackathons & Innovation Challenges
+
+Participated in **8+ hackathons and innovation challenges** across AI/ML, computer vision, cybersecurity, backend systems, embedded engineering and geospatial computing.
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+---
+
+<!-- ================================================================ -->
+<!-- CONNECT -->
+<!-- ================================================================ -->
+
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+### Engineering • R&D • Deep-Tech • Collaboration
+
+
+<br>
+
+
+<a href="https://www.linkedin.com/in/spandan-shah0312/">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+
+</a>
+
+
+<a href="https://github.com/Spandan-Shah">
+
+<img
+src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+/>
+
+</a>
+
+
+<a href="https://www.youtube.com/@Spandanshah">
+
+<img
+src="https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+/>
+
+</a>
+
+
+<a href="mailto:spandanshah10@gmail.com">
+
+<img
+src="https://img.shields.io/badge/Email-spandanshah10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+
+</a>
+
+
+<br><br><br>
+
+
+> ## Let the work make the statement.
+
+
+<sub>
+
+Spandan Shah • Founder, Aeronexus Aerospace
+
+</sub>
+
+
+</div>
