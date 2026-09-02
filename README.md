@@ -52,7 +52,7 @@ src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2
 
 <div align="center">
 
-<h1>**Spandan Shah**</h1>
+<h1><b>Spandan Shah</b></h1>
 
 Founder, Aeronexus Aerospace • Computer Engineering • Cybersecurity
 
