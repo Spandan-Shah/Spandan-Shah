@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Profile" src="https://github.com/user-attachments/assets/26953a57-b036-4803-953c-c058f309c95d" />
+<img width="1983" height="793" alt="Founder, Aeronexus Aerospace" src="https://github.com/user-attachments/assets/52bbe804-528b-4cbb-932e-32ec11d2f40c" />
 
 # 📜 About Me:
 
