@@ -186,269 +186,247 @@ Learning & Building
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!-- ========================================================= -->
-<!--                  PREMIUM ABOUT SECTION                    -->
-<!-- ========================================================= -->
-
 <br>
 
 <div align="center">
 
-### ABOUT / PROFILE
+## 🚀 Projects
 
-<h2>Building at the intersection of intelligence, security & autonomy.</h2>
+### Featured engineering work across AI, secure systems, embedded systems and autonomous technologies
 
 <p>
-Computer Engineering • Cybersecurity • AI • Embedded Systems • UAV Technologies
+  <img src="https://img.shields.io/badge/Project_Showcase-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem_→_Solution-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real_World_Engineering-0891B2?style=for-the-badge" />
 </p>
 
 </div>
 
 <br>
 
+<!-- Project 1 -->
 <table width="100%">
 <tr>
+<td width="45%" valign="top">
 
-<td width="58%" valign="top">
-
-<h3>👋 Who I Am</h3>
-
-<p>
-I am a <b>Computer Engineering undergraduate at Gujarat Technological University</b>,
-pursuing a <b>Minor in Cybersecurity</b>.
-</p>
-
-<p>
-My work spans <b>artificial intelligence, computer vision, embedded systems,
-backend engineering, secure communication and UAV technologies</b>.
-</p>
-
-<p>
-Rather than restricting myself to one layer of technology, I enjoy understanding
-how <b>software, intelligence, hardware and security</b> come together to form
-complete real-world systems.
-</p>
-
-<br>
-
-<kbd>Systems Thinking</kbd>
-&nbsp;
-<kbd>Deep Tech</kbd>
-&nbsp;
-<kbd>Product Engineering</kbd>
+<img src="./assets/aeronexus-command-center.png" width="100%" alt="Aeronexus Command Center" />
 
 </td>
 
-<td width="42%" valign="top">
+<td width="55%" valign="top">
 
-<h3>🚀 Founder Perspective</h3>
+## Aeronexus Command Center  
+**Unified Mission Control for Next-Generation UAV Systems**
 
-<p>
-I am the <b>Founder of Aeronexus Aerospace</b>, where I work on secure,
-intelligent and autonomous systems for UAV operations and real-world applications.
-</p>
+`Jul 2026 — Present` • `Active Development`
 
-<p>
-My approach combines:
-</p>
+**Problem**  
+UAV operations often split telemetry, mapping, health monitoring, mission progress and alerts across disconnected tools, creating fragmented situational awareness.
 
-<p>
-→ Engineering depth<br>
-→ Product thinking<br>
-→ Practical validation<br>
-→ Scalability<br>
-→ Real-world impact
-</p>
+**What I Solved**  
+Built a unified mission-control platform that combines telemetry, operational zones, geofencing, aircraft health, battery monitoring, fleet awareness and operator visibility into a single interface.
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-<h2>8+</h2>
-
-<b>Hackathons & Challenges</b>
-
-<br>
-
-<sub>
-Worked across multidisciplinary teams involving AI,
-cybersecurity, embedded systems and software engineering.
-</sub>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h2>10+</h2>
-
-<b>Engineering Projects</b>
-
-<br>
-
-<sub>
-From intelligent software and computer vision
-to embedded security and UAV mission systems.
-</sub>
-
-</td>
-
-<td width="34%" valign="top" align="center">
-
-<h2>1</h2>
-
-<b>Patent Application</b>
-
-<br>
-
-<sub>
-Primary Applicant & Lead Innovator on a pending
-Indian secure-communication architecture patent.
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ What I Build</h3>
-
-<p>
-I enjoy building systems that connect multiple engineering domains rather than
-isolated proof-of-concepts.
-</p>
-
-<p>
-<b>Current engineering areas:</b>
-</p>
-
-<p>
-▸ UAV mission-control platforms<br>
-▸ Secure embedded communication<br>
-▸ Computer vision & video intelligence<br>
-▸ AI-assisted analytical systems<br>
-▸ Backend APIs & operational software<br>
-▸ Cybersecurity architectures<br>
-▸ Workflow automation
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧠 How I Work</h3>
-
-<p>
-I believe strong engineering comes from curiosity followed by execution.
-</p>
-
-<br>
-
-<div align="center">
-
-<b>
-Learn → Build → Test → Break → Improve → Validate
-</b>
-
-</div>
-
-<br>
-
-<p>
-I prefer understanding <b>why a system works</b>, where it fails,
-what assumptions it depends on, and how it behaves outside ideal conditions.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### CURRENT FOCUS
-
-<br>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-6366F1?style=for-the-badge&logo=openai&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Embedded_Systems-10B981?style=for-the-badge&logo=espressif&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=for-the-badge&logo=hackthebox&logoColor=white">
+**Tech Stack**  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Computer_Vision-0EA5E9?style=for-the-badge&logo=opencv&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/UAV_Systems-F97316?style=for-the-badge&logo=googleearth&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Secure_Systems-111827?style=for-the-badge&logo=letsencrypt&logoColor=white">
+[![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/Aeronexus-Command-Center-Unified-Mission-Control-for-Next-Generation-UAV-Systems)
 
-</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Project 2 -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## GoblinWisp  
+**Identity-Bound & Directionally Isolated Secure Session Prototype**
+
+`Dec 2025 — Aug 2026` • `Embedded Security Prototype`
+
+**Problem**  
+Devices operating without normal infrastructure still need secure communication, but poor session handling, replay risks and overly broad trust can weaken communication security.
+
+**What I Solved**  
+Built an ESP32-based secure communication proof-of-concept over ESP-NOW using identity-bound sessions, authenticated encryption and direction-specific cryptographic state.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP--NOW-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/X25519-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/HKDF--SHA256-047857?style=flat-square" />
+<img src="https://img.shields.io/badge/AES--GCM-166534?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+<br><br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/GoblinWisp)
+
+</td>
+
+<td width="45%" valign="top">
+
+<img src="./assets/goblinwisp.png" width="100%" alt="GoblinWisp" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Project 3 -->
+<table width="100%">
+<tr>
+<td width="45%" valign="top">
+
+<img src="./assets/vigilantedge.png" width="100%" alt="VigilantEdge" />
+
+</td>
+
+<td width="55%" valign="top">
+
+## VigilantEdge  
+**Adaptive AI Firewall & Self-Healing Cyber Defense**
+
+`Jan 2026 — Present` • `Architecture Defined / Staged R&D`
+
+**Problem**  
+Traditional security controls struggle against evolving attack behaviour, contextual anomalies and advanced API abuse patterns.
+
+**What I Solved**  
+Designed an adaptive security architecture that combines behavioural analysis, ML-assisted anomaly detection, explainability and policy-driven response.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+<br><br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/VigilantEdge)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Project 4 -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## ExoTrace  
+**AI-Assisted Exoplanet Transit Detection & Candidate Screening**
+
+`2026` • `Research Prototype`
+
+**Problem**  
+Astronomical light-curve data contains noise and false positives, making reliable exoplanet candidate screening difficult.
+
+**What I Solved**  
+Built an ML-based pipeline that processes TESS light curves, extracts features and supports candidate classification using a recall-oriented scientific screening workflow.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+
+<td width="45%" valign="top">
+
+<img src="./assets/exotrace.png" width="100%" alt="ExoTrace" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Smaller cards -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ExamForge AI  
+Generative assessment and question-paper builder using structured prompts and Gemini API integration.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" />
+
+<br><br>
+
+<img src="./assets/examforge.png" width="100%" alt="ExamForge AI" />
+
+<br><br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/Question-Paper-Generator)
+
+</td>
+
+<td width="50%" valign="top">
+
+### TinyML — Object Detection Using ESP32-CAM  
+Embedded vision experiment using ESP32-CAM image streaming and receiver-side object detection.
+
+<img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/UDP_Streaming-1D4ED8?style=flat-square" />
+
+<br><br>
+
+<img src="./assets/tinyml.png" width="100%" alt="TinyML ESP32-CAM" />
+
+<br><br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam)
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <details>
-
-<summary>
-<b>⚡ More about my engineering philosophy</b>
-</summary>
+<summary><b>📂 Additional Projects</b></summary>
 
 <br>
 
-I strongly believe that no engineer starts by knowing everything.
-
-The difference comes from the willingness to continuously learn,
-experiment, challenge assumptions and turn knowledge into working systems.
-
-My goal is not simply to collect technologies or frameworks.
-
-I want to understand how different engineering disciplines can be combined to
-build systems that are:
-
-- secure by design
-- intelligent where intelligence adds value
-- modular and maintainable
-- resilient under real-world conditions
-- practical enough to deploy
-- capable of creating measurable impact
+- **Berlin** — Intelligent traffic surveillance using YOLO, DeepSORT, OCR and speed estimation  
+- **Vigil** — AI-assisted situational awareness for public-safety monitoring  
+- **NarcoTrace AI** — Multimodal threat intelligence using NLP, computer vision and OSINT  
+- **SpectraGuard** — ESP32 + NRF24L01 wireless-security and RF-resilience testbed  
+- **FlowOps** — n8n-based workflow automation and event-driven processing  
+- **Blackout Community** — Student-led collaborative technology and innovation initiative  
 
 </details>
 
 <br>
 
-<div align="center">
 
-### “Let the work make the statement.”
 
-</div>
 
-<br>
 
-<!-- ========================================================= -->
+
+
+
+
+
