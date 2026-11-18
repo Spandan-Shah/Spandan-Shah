@@ -8,5 +8,11 @@
 <text x="24" y="104" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="16">and founder work.</text>
 <circle cx="31" cy="153" r="6" fill="#3178C6"/>
 <text x="45" y="158" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">TypeScript</text>
-<text x="550" y="158" text-anchor="end" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13">Public repository</text>
+<g fill="none" stroke="#58A6FF" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+<path d="M375 144 L378.5 150.5 L386 151.6 L380.6 157 L382 164 L375 160.5 L368 164 L369.4 157 L364 151.6 L371.5 150.5 Z"/>
+<circle cx="457" cy="146" r="3"/><circle cx="457" cy="161" r="3"/><circle cx="473" cy="153" r="3"/>
+<path d="M457 149 V158 M460 146 H465 Q468 146 468 150 V153 H470"/>
+</g>
+<text x="394" y="158" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">1</text>
+<text x="486" y="158" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="14">0</text>
 </svg>
