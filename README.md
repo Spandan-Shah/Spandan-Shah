@@ -103,57 +103,68 @@ based_in:   Gujarat, India
 ---
 
 <!-- ============================================================ -->
-<!--                          TECH STACK                          -->
+<!--                      ENGINEERING TECH STACK                  -->
 <!-- ============================================================ -->
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,fastapi,opencv,pytorch,git,github,docker&amp;theme=dark" alt="Core technologies: Python, C++, JavaScript, TypeScript, React, FastAPI, OpenCV, PyTorch, Git, GitHub and Docker" />
 </div>
 
 <br/>
 
+<!-- Skill Icons provides supported official-style icons; badges name specialist tools that have no supported Skill Icon. -->
 <table align="center" width="100%">
 <tr>
-<td align="right" width="175"><b>💻 Languages & Core</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,git,linux&theme=dark" alt="Python C++ Java JavaScript TypeScript Git Linux" /></td>
+<td width="26%" valign="middle"><b>💻 Programming & Core</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,git,linux,bash&amp;theme=dark" alt="Python, C, C++, JavaScript, TypeScript, Git, Linux and Bash" /><br/><sub>Python · Embedded C/C++ · JavaScript · TypeScript · SQL · Linux CLI</sub></td>
 </tr>
 <tr>
-<td align="right"><b>🤖 AI / ML / Vision</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch TensorFlow Scikit-learn OpenCV" /></td>
+<td valign="middle"><b>🧠 AI, ML & Scientific Computing</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn and Anaconda" /><br/><sub>NumPy · Pandas · ExtraTrees · Classification · Anomaly Detection · Time-Series Analysis · Box Least Squares</sub></td>
 </tr>
 <tr>
-<td align="right"><b>🌐 Web / Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs,express&theme=dark" alt="React Next.js FastAPI Flask Node.js Express" /></td>
+<td valign="middle"><b>👁️ Computer Vision & Video</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=opencv,python,pytorch&amp;theme=dark" alt="OpenCV, Python and PyTorch" /><br/><sub>YOLO · DeepSORT · Object Detection & Tracking · OCR · Pose / Gesture Analysis · Real-Time Video Pipelines</sub></td>
 </tr>
 <tr>
-<td align="right"><b>☁️ Data / Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,aws,mysql,sqlite,redis,postman&theme=dark" alt="Docker AWS MySQL SQLite Redis Postman" /></td>
+<td valign="middle"><b>🌐 Frontend, APIs & Backend</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,nodejs,express,fastapi,flask&amp;theme=dark" alt="React, TypeScript, Vite, Next.js, Node.js, Express, FastAPI and Flask" /><br/><sub>REST APIs · HTTP / Webhooks · Dashboard Interfaces · Backend Services · Gemini API Integration</sub></td>
 </tr>
 <tr>
-<td align="right"><b>🔌 Embedded / IoT</b></td>
-<td><img src="https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi&theme=dark" alt="Arduino C C++ Raspberry Pi" /></td>
+<td valign="middle"><b>🗺️ Data & Geospatial Systems</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=sqlite,mysql,python&amp;theme=dark" alt="SQLite, MySQL and Python" /><br/><sub>SQL · GeoPandas · WebGIS · Satellite Imagery · Mission Maps · Geofencing · Telemetry Data</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔐 Cybersecurity & Cryptography</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=python,cpp,linux&amp;theme=dark" alt="Python, C++ and Linux" /><br/><sub>X25519 · HKDF-SHA256 · AES-GCM · Authenticated Key Agreement · Direction-Specific Session State · Replay Protection</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>📡 Embedded, IoT & Wireless</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi&amp;theme=dark" alt="Arduino, C, C++ and Raspberry Pi" /><br/><sub>ESP32 · ESP32-CAM · ESP-NOW · NRF24L01 · SPI · UDP Streaming · Serial Diagnostics · Sensor Interfaces</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🚁 UAV & Autonomy Software</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=python,react,fastapi&amp;theme=dark" alt="Python, React and FastAPI" /><br/><sub>ArduPilot Ecosystem · UAV Telemetry · Mission Planning · Route Visualization · Geofencing · Aircraft Health Monitoring</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>⚙️ Tooling & Automation</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Visual Studio Code and Linux" /><br/><sub>n8n · Webhooks · API Testing · GitHub Actions · Serial Debugging · Development Workflows</sub></td>
 </tr>
 </table>
 
 <div align="center">
 
-**🔐 Cybersecurity · Applied Cryptography · UAV Systems · Research**
+**Specialized engineering domains**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1A2E?style=flat-square&logoColor=white)
-![X25519](https://img.shields.io/badge/X25519-1A1A2E?style=flat-square&logoColor=white)
-![HKDF](https://img.shields.io/badge/HKDF--SHA256-1A1A2E?style=flat-square&logoColor=white)
-![AES-GCM](https://img.shields.io/badge/AES--GCM-1A1A2E?style=flat-square&logoColor=white)
-![ESP-NOW](https://img.shields.io/badge/ESP--NOW-1A1A2E?style=flat-square&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-1A1A2E?style=flat-square&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1A1A2E?style=flat-square&logoColor=white)
-![WebGIS](https://img.shields.io/badge/WebGIS-1A1A2E?style=flat-square&logoColor=white)
+![Secure Sessions](https://img.shields.io/badge/Secure_Sessions-1F6FEB?style=flat-square)
+![Applied Cryptography](https://img.shields.io/badge/Applied_Cryptography-1F6FEB?style=flat-square)
+![Embedded Security](https://img.shields.io/badge/Embedded_Security-1F6FEB?style=flat-square)
+![UAV Mission Control](https://img.shields.io/badge/UAV_Mission_Control-1F6FEB?style=flat-square)
+![WebGIS](https://img.shields.io/badge/WebGIS-1F6FEB?style=flat-square)
+![Scientific ML](https://img.shields.io/badge/Scientific_ML-1F6FEB?style=flat-square)
+![n8n Automation](https://img.shields.io/badge/n8n_Automation-1F6FEB?style=flat-square)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-1F6FEB?style=flat-square)
 
 </div>
 
@@ -180,43 +191,35 @@ based_in:   Gujarat, India
 
 <div align="center">
 
-**Secure Systems · Aerospace Software · AI Research · Computer Vision**
+**Secure Systems · Aerospace Software · AI Research · Computer Vision · Automation**
 
 </div>
 
+<!-- All 12 projects appear together in a single two-column GitHub-style gallery. -->
 <p align="center">
 <img src="./assets/project-cards/goblinwisp.svg" alt="GoblinWisp secure communication research project card" width="49%" />
 <a href="https://github.com/Spandan-Shah/Aeronexus-Command-Center-Unified-Mission-Control-for-Next-Generation-UAV-Systems"><img src="./assets/project-cards/aeronexus-command-center.svg" alt="Aeronexus Command Center UAV mission control project card" width="49%" /></a>
 </p>
 <p align="center">
-<img src="./assets/project-cards/vigilantedge.svg" alt="VigilantEdge adaptive cyber defense project card" width="49%" />
-<img src="./assets/project-cards/exotrace.svg" alt="ExoTrace exoplanet detection project card" width="49%" />
+<img src="./assets/project-cards/vigilantedge.svg" alt="VigilantEdge adaptive cyber defense research project card" width="49%" />
+<img src="./assets/project-cards/exotrace.svg" alt="ExoTrace exoplanet candidate screening project card" width="49%" />
 </p>
 <p align="center">
-<a href="https://github.com/Spandan-Shah/Question-Paper-Generator"><img src="./assets/project-cards/examforge.svg" alt="ExamForge AI generative assessment builder project card" width="49%" /></a>
-<a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam"><img src="./assets/project-cards/tinyml-esp32.svg" alt="ESP32 CAM receiver-side vision project card" width="49%" /></a>
+<a href="https://github.com/Spandan-Shah/Question-Paper-Generator"><img src="./assets/project-cards/examforge.svg" alt="ExamForge AI generative assessment project card" width="49%" /></a>
+<a href="https://github.com/Spandan-Shah/TinyML---Object-Detection-Using-ESP32-Cam"><img src="./assets/project-cards/tinyml-esp32.svg" alt="TinyML ESP32-CAM vision project card" width="49%" /></a>
 </p>
-
-<details>
-<summary><b>📂 Explore more engineering projects (6 additional cards)</b></summary>
-<br/>
-
 <p align="center">
 <img src="./assets/project-cards/vigil.svg" alt="Vigil public-safety computer vision project card" width="49%" />
-<img src="./assets/project-cards/narcotrace.svg" alt="NarcoTrace AI threat intelligence project card" width="49%" />
+<img src="./assets/project-cards/narcotrace.svg" alt="NarcoTrace AI threat intelligence research project card" width="49%" />
 </p>
 <p align="center">
-<img src="./assets/project-cards/spectraguard.svg" alt="SpectraGuard RF defensive research project card" width="49%" />
-<img src="./assets/project-cards/flowops.svg" alt="FlowOps n8n automation project card" width="49%" />
+<img src="./assets/project-cards/spectraguard.svg" alt="SpectraGuard wireless security research project card" width="49%" />
+<img src="./assets/project-cards/flowops.svg" alt="FlowOps workflow automation project card" width="49%" />
 </p>
 <p align="center">
 <img src="./assets/project-cards/berlin.svg" alt="Berlin traffic computer vision project card" width="49%" />
 <a href="https://github.com/Spandan-Shah/My-Portfolio"><img src="./assets/project-cards/my-portfolio.svg" alt="Personal engineering portfolio project card" width="49%" /></a>
 </p>
-
-</details>
-
-<sub>Blue titles use the same GitHub-inspired layout as the reference. Public cards link to the corresponding repositories. Research cards are intentionally not linked to nonexistent or private code. Public star/fork figures are populated from GitHub by the included daily workflow.</sub>
 
 ---
 
@@ -248,10 +251,11 @@ based_in:   Gujarat, India
 
 <div align="center">
 
-<!-- Generated daily by yoshi389111/github-profile-3d-contrib -->
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar for Spandan-Shah" width="100%" />
+<!-- A clearly labeled, tracked placeholder appears before the first workflow run.
+     GitHub Actions replaces this exact file with a real GitHub-generated 3D calendar. -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar: awaiting GitHub Actions generation" width="100%" />
 
-<sub>Generated automatically from GitHub contribution activity. This image appears after the first successful workflow run.</sub>
+<sub>Real contribution data is produced by the [3D profile workflow](./.github/workflows/profile-3d.yml). The initial placeholder is replaced after a successful workflow run.</sub>
 
 </div>
 
@@ -286,7 +290,7 @@ Engineering project execution
 
 ### 🏅 Highlights
 SIH 2024 shortlisted team <br/>
-Participation in 8+ hackathons <br/>
+Participation in 5+ hackathons and innovation challenges <br/>
 1 Indian patent application <br/>
 AI, security & aerospace research
 
