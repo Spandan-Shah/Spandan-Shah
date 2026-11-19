@@ -225,7 +225,7 @@ based_in:   Gujarat, India
 
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
-<!-- ============================================================ -->
+<!-- ============================================================ 
 ## 📊 GitHub Metrics & Stats Dashboard
 
 <div align="center">
@@ -243,22 +243,22 @@ based_in:   Gujarat, India
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Spandan-Shah&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Spandan-Shah)
 
 </div>
-
+-->
 <!-- ============================================================ -->
 <!--                    CONTRIBUTION 3D GRAPH                    -->
-<!-- ============================================================ -->
+<!-- ============================================================ 
 ### 🧊 My GitHub Contributions in 3D
 
 <div align="center">
-
+-->
 <!-- A clearly labeled, tracked placeholder appears before the first workflow run.
-     GitHub Actions replaces this exact file with a real GitHub-generated 3D calendar. -->
+     GitHub Actions replaces this exact file with a real GitHub-generated 3D calendar. 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar: awaiting GitHub Actions generation" width="100%" />
 
 <sub>Real contribution data is produced by the [3D profile workflow](./.github/workflows/profile-3d.yml). The initial placeholder is replaced after a successful workflow run.</sub>
 
 </div>
-
+-->
 ---
 
 <!-- ============================================================ -->
@@ -310,13 +310,13 @@ AI, security & aerospace research
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
-<!-- ============================================================ -->
+<!-- ============================================================ 
 <div align="center">
 
 ![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 </div>
-
+-->
 <!-- ============================================================ -->
 <!--                           FOOTER                             -->
 <!-- ============================================================ -->
