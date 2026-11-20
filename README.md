@@ -2,58 +2,37 @@
 <!--         SPANDAN SHAH | GITHUB PROFILE | BLUE / DARK           -->
 <!--     Adapted from the uploaded ashishpatel26 layout reference  -->
 <!-- ============================================================ -->
-<div align="center">
-
-# Spandan Shah
-
-#### Founder, Aeronexus Aerospace · Computer Engineer · Cybersecurity & Deep-Tech Builder
-
+<div align="center">Spandan Shah
+Founder, Aeronexus Aerospace · Computer Engineer · Cybersecurity & Deep-Tech Builder
+<!-- DISABLED: remotely generated typing animation (third-party image request).
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1250&color=58A6FF&center=true&vCenter=true&width=820&height=52&lines=Founder%20%40%20Aeronexus%20Aerospace%20%7C%20Deep-Tech%20Systems;Building%20Secure%20Communication%20and%20UAV%20Platforms;Engineering%20AI%2C%20Computer%20Vision%20and%20Embedded%20Systems;Design%20%E2%86%92%20Build%20%E2%86%92%20Validate%20%E2%86%92%20Improve" alt="Animated introduction: Aeronexus Aerospace, secure systems, AI and UAV engineering" />
 </a>
-
-</div>
-
-<!-- ============================================================ -->
+--></div><!-- ============================================================ -->
 <!--                        SOCIAL LINKS                          -->
 <!-- ============================================================ -->
-<div align="center">
-
+<div align="center"><!-- DISABLED: external Shields.io badge image request.
 [![YouTube](https://img.shields.io/badge/YouTube-Spandan_Shah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Spandanshah)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-shah0312/)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanshah10@gmail.com)
-
-</div>
-
----
-
-<!-- ============================================================ -->
+--></div><!-- ============================================================ -->
 <!--                       BRAND STATEMENT                        -->
 <!-- ============================================================ -->
-<div align="center">
-
-### 🚀 _"I build systems at the intersection of intelligence, security and autonomy — from research prototypes to real-world aerospace applications."_
-
-</div>
-
-<table width="100%">
+<div align="center">🚀 "I build systems at the intersection of intelligence, security and autonomy — from research prototypes to real-world aerospace applications."
+</div><table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top">👋 Who I Am
+I'm Spandan Shah, a B.E. Computer Engineering student at Gujarat Technological University, pursuing a Minor in Cybersecurity and working across AI, embedded systems, computer vision, secure communications and UAV technologies.
 
-## 👋 Who I Am
+As the Founder of Aeronexus Aerospace, I am exploring how intelligent sensing, secure peer communication, operational software and autonomous platforms can work together. My projects span embedded cryptographic research, UAV mission control, cyber defense, scientific machine learning and real-time video intelligence.
 
-I'm **Spandan Shah**, a **B.E. Computer Engineering student at Gujarat Technological University**, pursuing a **Minor in Cybersecurity** and working across **AI, embedded systems, computer vision, secure communications and UAV technologies**.
-
-As the **Founder of Aeronexus Aerospace**, I am exploring how intelligent sensing, secure peer communication, operational software and autonomous platforms can work together. My projects span embedded cryptographic research, UAV mission control, cyber defense, scientific machine learning and real-time video intelligence.
-
-I prefer **end-to-end systems engineering**: understand the problem, define boundaries, build a testable prototype, measure what happens and improve it based on evidence.
-
+I prefer end-to-end systems engineering: understand the problem, define boundaries, build a testable prototype, measure what happens and improve it based on evidence.
 </td>
-<td width="40%" valign="top">
-
-## ⚡ At a Glance
-
-```yaml
+<td width="40%" valign="top">⚡ At a Glance
 name:       Spandan Shah
 role:       Founder / Engineering Builder
 venture:    Aeronexus Aerospace
@@ -64,138 +43,112 @@ focus:      AI · Security · UAVs · Embedded
 research:   Secure peer communication
 patent:     1 Indian application (pending)
 based_in:   Gujarat, India
-```
-
 </td>
 </tr>
-</table>
-
----
-
-<!-- ============================================================ -->
+</table><!-- ============================================================ -->
 <!--                  CURRENTLY BUILDING / LEARNING               -->
 <!-- ============================================================ -->
-## 🔭 Currently Building & Learning
-
+🔭 Currently Building & Learning
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🛠️ Building
-- 🛰️ **Aeronexus Command Center** — operator-first UAV mission software
-- 🔐 **GoblinWisp** — identity-bound, reset-safe peer communication prototype
-- 🛡️ **VigilantEdge** — explainable, ML-assisted defensive security architecture
-- 🧠 **Computer-vision systems** — practical sensing, tracking and event analysis
-
+<td width="50%" valign="top">🛠️ Building
+- 🛰️ Aeronexus Command Center — operator-first UAV mission software
+- 🔐 GoblinWisp — identity-bound, reset-safe peer communication prototype
+- 🛡️ VigilantEdge — explainable, ML-assisted defensive security architecture
+- 🧠 Computer-vision systems — practical sensing, tracking and event analysis
 </td>
-<td width="50%" valign="top">
-
-### 🌱 Learning & Exploring
-- 🚁 **UAV integration** — flight controllers, telemetry and autonomous systems
-- 🔒 **Applied cryptography** — authentication, replay resistance and protocol state
-- 📡 **Embedded/RF engineering** — constrained devices and wireless resilience
-- ⚙️ **Reliable AI systems** — observability, false-positive control and deployment
-
+<td width="50%" valign="top">🌱 Learning & Exploring
+- 🚁 UAV integration — flight controllers, telemetry and autonomous systems
+- 🔒 Applied cryptography — authentication, replay resistance and protocol state
+- 📡 Embedded/RF engineering — constrained devices and wireless resilience
+- ⚙️ Reliable AI systems — observability, false-positive control and deployment
 </td>
 </tr>
-</table>
-
----
-
-<!-- ============================================================ -->
+</table><!-- ============================================================ -->
 <!--                      ENGINEERING TECH STACK                  -->
 <!-- ============================================================ -->
-## 🧰 Tech Stack
-
+🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,fastapi,opencv,pytorch,git,github,docker&amp;theme=dark" alt="Core technologies: Python, C++, JavaScript, TypeScript, React, FastAPI, OpenCV, PyTorch, Git, GitHub and Docker" />
+  <!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,fastapi,opencv,pytorch,git,github,docker&amp;theme=dark" alt="Core technologies: Python, C++, JavaScript, TypeScript, React, FastAPI, OpenCV, PyTorch, Git, GitHub and Docker" /> -->
 </div>
-
-<br/>
-
 <!-- Skill Icons provides supported official-style icons; badges name specialist tools that have no supported Skill Icon. -->
 <table align="center" width="100%">
 <tr>
 <td width="26%" valign="middle"><b>💻 Programming & Core</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,git,linux,bash&amp;theme=dark" alt="Python, C, C++, JavaScript, TypeScript, Git, Linux and Bash" /><br/><sub>Python · Embedded C/C++ · JavaScript · TypeScript · SQL · Linux CLI</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,git,linux,bash&amp;theme=dark" alt="Python, C, C++, JavaScript, TypeScript, Git, Linux and Bash" /> --><br/><sub>Python · Embedded C/C++ · JavaScript · TypeScript · SQL · Linux CLI</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>🧠 AI, ML & Scientific Computing</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn and Anaconda" /><br/><sub>NumPy · Pandas · ExtraTrees · Classification · Anomaly Detection · Time-Series Analysis · Box Least Squares</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn and Anaconda" /> --><br/><sub>NumPy · Pandas · ExtraTrees · Classification · Anomaly Detection · Time-Series Analysis · Box Least Squares</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>👁️ Computer Vision & Video</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=opencv,python,pytorch&amp;theme=dark" alt="OpenCV, Python and PyTorch" /><br/><sub>YOLO · DeepSORT · Object Detection & Tracking · OCR · Pose / Gesture Analysis · Real-Time Video Pipelines</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=opencv,python,pytorch&amp;theme=dark" alt="OpenCV, Python and PyTorch" /> --><br/><sub>YOLO · DeepSORT · Object Detection & Tracking · OCR · Pose / Gesture Analysis · Real-Time Video Pipelines</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>🌐 Frontend, APIs & Backend</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,nodejs,express,fastapi,flask&amp;theme=dark" alt="React, TypeScript, Vite, Next.js, Node.js, Express, FastAPI and Flask" /><br/><sub>REST APIs · HTTP / Webhooks · Dashboard Interfaces · Backend Services · Gemini API Integration</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,nodejs,express,fastapi,flask&amp;theme=dark" alt="React, TypeScript, Vite, Next.js, Node.js, Express, FastAPI and Flask" /> --><br/><sub>REST APIs · HTTP / Webhooks · Dashboard Interfaces · Backend Services · Gemini API Integration</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>🗺️ Data & Geospatial Systems</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=sqlite,mysql,python&amp;theme=dark" alt="SQLite, MySQL and Python" /><br/><sub>SQL · GeoPandas · WebGIS · Satellite Imagery · Mission Maps · Geofencing · Telemetry Data</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=sqlite,mysql,python&amp;theme=dark" alt="SQLite, MySQL and Python" /> --><br/><sub>SQL · GeoPandas · WebGIS · Satellite Imagery · Mission Maps · Geofencing · Telemetry Data</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>🔐 Cybersecurity & Cryptography</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=python,cpp,linux&amp;theme=dark" alt="Python, C++ and Linux" /><br/><sub>X25519 · HKDF-SHA256 · AES-GCM · Authenticated Key Agreement · Direction-Specific Session State · Replay Protection</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=python,cpp,linux&amp;theme=dark" alt="Python, C++ and Linux" /> --><br/><sub>X25519 · HKDF-SHA256 · AES-GCM · Authenticated Key Agreement · Direction-Specific Session State · Replay Protection</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>📡 Embedded, IoT & Wireless</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi&amp;theme=dark" alt="Arduino, C, C++ and Raspberry Pi" /><br/><sub>ESP32 · ESP32-CAM · ESP-NOW · NRF24L01 · SPI · UDP Streaming · Serial Diagnostics · Sensor Interfaces</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi&amp;theme=dark" alt="Arduino, C, C++ and Raspberry Pi" /> --><br/><sub>ESP32 · ESP32-CAM · ESP-NOW · NRF24L01 · SPI · UDP Streaming · Serial Diagnostics · Sensor Interfaces</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>🚁 UAV & Autonomy Software</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=python,react,fastapi&amp;theme=dark" alt="Python, React and FastAPI" /><br/><sub>ArduPilot Ecosystem · UAV Telemetry · Mission Planning · Route Visualization · Geofencing · Aircraft Health Monitoring</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=python,react,fastapi&amp;theme=dark" alt="Python, React and FastAPI" /> --><br/><sub>ArduPilot Ecosystem · UAV Telemetry · Mission Planning · Route Visualization · Geofencing · Aircraft Health Monitoring</sub></td>
 </tr>
 <tr>
 <td valign="middle"><b>⚙️ Tooling & Automation</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Visual Studio Code and Linux" /><br/><sub>n8n · Webhooks · API Testing · GitHub Actions · Serial Debugging · Development Workflows</sub></td>
+<td valign="middle"><!-- DISABLED external Skill Icons image request: <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Visual Studio Code and Linux" /> --><br/><sub>n8n · Webhooks · API Testing · GitHub Actions · Serial Debugging · Development Workflows</sub></td>
 </tr>
-</table>
-
-<div align="center">
-
-**Specialized engineering domains**
-
+</table><div align="center">Specialized engineering domains
+<!-- DISABLED: external Shields.io badge image request.
 ![Secure Sessions](https://img.shields.io/badge/Secure_Sessions-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![Applied Cryptography](https://img.shields.io/badge/Applied_Cryptography-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![Embedded Security](https://img.shields.io/badge/Embedded_Security-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![UAV Mission Control](https://img.shields.io/badge/UAV_Mission_Control-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![WebGIS](https://img.shields.io/badge/WebGIS-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![Scientific ML](https://img.shields.io/badge/Scientific_ML-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![n8n Automation](https://img.shields.io/badge/n8n_Automation-1F6FEB?style=flat-square)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 ![ESP-NOW](https://img.shields.io/badge/ESP--NOW-1F6FEB?style=flat-square)
-
-</div>
-
----
-
-<!-- ============================================================ -->
+--></div><!-- ============================================================ -->
 <!--                      PATENT & RESEARCH                       -->
 <!-- ============================================================ -->
-## 🔬 Patent & Research
+🔬 Patent & Research
+Directionally-Isolated Identity-Bound Secure Session Architecture for Infrastructure-Free Peer Communication Systems
+Indian Patent Application: 202621025357 · Status: Application filed; patent grant not claimed.
 
-> **Directionally-Isolated Identity-Bound Secure Session Architecture for Infrastructure-Free Peer Communication Systems**  
-> **Indian Patent Application:** `202621025357` · **Status:** Application filed; patent grant not claimed.
-
-**GoblinWisp** is the embedded proof-of-concept associated with this research. Its architecture investigates **identity-bound authenticated sessions**, **independent directional cryptographic state**, **authenticated encryption**, **replay handling** and **session invalidation following reset**, using ESP32-class devices and ESP-NOW as an experimental transport.
+GoblinWisp is the embedded proof-of-concept associated with this research. Its architecture investigates identity-bound authenticated sessions, independent directional cryptographic state, authenticated encryption, replay handling and session invalidation following reset, using ESP32-class devices and ESP-NOW as an experimental transport.
 
 <sub>Patent application status is not equivalent to a granted patent. Selected claim and implementation details are intentionally kept at a high level.</sub>
-
----
-
 <!-- ============================================================ -->
 <!--                       FEATURED PROJECTS                      -->
 <!-- ============================================================ -->
-## 📌 Featured Projects
-
-<div align="center">
-
-**Secure Systems · Aerospace Software · AI Research · Computer Vision · Automation**
-
-</div>
-
-<!-- All 12 projects appear together in a single two-column GitHub-style gallery. -->
+📌 Featured Projects
+<div align="center">Secure Systems · Aerospace Software · AI Research · Computer Vision · Automation
+</div><!-- All 12 projects appear together in a single two-column GitHub-style gallery. -->
 <p align="center">
 <img src="./assets/project-cards/goblinwisp.svg" alt="GoblinWisp secure communication research project card" width="49%" />
 <a href="https://github.com/Spandan-Shah/Aeronexus-Command-Center-Unified-Mission-Control-for-Next-Generation-UAV-Systems"><img src="./assets/project-cards/aeronexus-command-center.svg" alt="Aeronexus Command Center UAV mission control project card" width="49%" /></a>
@@ -219,11 +172,7 @@ based_in:   Gujarat, India
 <p align="center">
 <img src="./assets/project-cards/berlin.svg" alt="Berlin traffic computer vision project card" width="49%" />
 <a href="https://github.com/Spandan-Shah/My-Portfolio"><img src="./assets/project-cards/my-portfolio.svg" alt="Personal engineering portfolio project card" width="49%" /></a>
-</p>
-
----
-
-<!-- ============================================================ -->
+</p><!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
 <!-- ============================================================ 
 ## 📊 GitHub Metrics & Stats Dashboard
@@ -259,56 +208,49 @@ based_in:   Gujarat, India
 
 </div>
 -->
----
-
 <!-- ============================================================ -->
 <!--                    EXPERIENCE & COMMUNITY                    -->
 <!-- ============================================================ -->
-## 🎙️ Experience & Community
-
+🎙️ Experience & Community
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center">🚀 Founder & Builder
+Aeronexus Aerospace 
 
-### 🚀 Founder & Builder
-**Aeronexus Aerospace** <br/>
-Deep-tech startup development <br/>
-UAV systems & secure communications <br/>
+Deep-tech startup development 
+
+UAV systems & secure communications 
+
 Hardware + software integration
-
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center">🧑‍💻 Team & Leadership
+Student Coordinator (2024–2025) 
 
-### 🧑‍💻 Team & Leadership
-Student Coordinator (2024–2025) <br/>
-Tech Lead — Team NIDAR <br/>
-Hackathons & collaborative R&D <br/>
+Tech Lead — Team NIDAR 
+
+Hackathons & collaborative R&D 
+
 Engineering project execution
-
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center">🏅 Highlights
+SIH 2024 shortlisted team 
 
-### 🏅 Highlights
-SIH 2024 shortlisted team <br/>
-Participation in 5+ hackathons and innovation challenges <br/>
-1 Indian patent application <br/>
+Participation in 5+ hackathons and innovation challenges 
+
+1 Indian patent application 
+
 AI, security & aerospace research
-
 </td>
 </tr>
-</table>
-
-<div align="center">
-
+</table><div align="center"><!-- DISABLED: external Shields.io badge image request.
 [![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Spandanshah)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-shah0312/)
+-->
+<!-- DISABLED: external Shields.io badge image request.
 [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanshah10@gmail.com)
-
-</div>
-
----
-
-<!-- ============================================================ -->
+--></div><!-- ============================================================ -->
 <!--                            QUOTE                             -->
 <!-- ============================================================ 
 <div align="center">
@@ -320,10 +262,7 @@ AI, security & aerospace research
 <!-- ============================================================ -->
 <!--                           FOOTER                             -->
 <!-- ============================================================ -->
-<div align="center">
+<div align="center">Thanks for visiting — let's engineer intelligent, secure systems that hold up under real-world constraints.
 
-**_Thanks for visiting — let's engineer intelligent, secure systems that hold up under real-world constraints._**
-
-Explore my [public repositories](https://github.com/Spandan-Shah?tab=repositories) or get in touch through [LinkedIn](https://www.linkedin.com/in/spandan-shah0312/).
-
+Explore my public repositories or get in touch through LinkedIn.
 </div>
