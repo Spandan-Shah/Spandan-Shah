@@ -14,7 +14,7 @@
 <p>I'm Spandan Shah, a B.E. Computer Engineering student at Gujarat Technological University, pursuing a Minor in Cybersecurity and working across AI, embedded systems, computer vision, secure communications and UAV technologies.</p><p>As the Founder of Aeronexus Aerospace, I am exploring how intelligent sensing, secure peer communication, operational software and autonomous platforms can work together. My projects span embedded cryptographic research, UAV mission control, cyber defense, scientific machine learning and real-time video intelligence.</p><p>I prefer end-to-end systems engineering: understand the problem, define boundaries, build a testable prototype, measure what happens and improve it based on evidence.</p>
 </td>
 <td width="40%" valign="top"><h3>At a Glance</h3>
-<pre>name:        Spandan Shah
+<pre>Name:        Spandan Shah
 Role:        Founder / Engineering Builder
 Venture:     Aeronexus Aerospace
 Education:   B.E. Computer Engineering, GTU
